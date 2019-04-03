@@ -1,0 +1,624 @@
+ORISPL_CODE,UNITID,NAME,Pmin_1d,Pmin_2d0,CAPACITY
+9,CTG-1,Copper Station,45.73,44.67,70
+116,1,Ocotillo Power Plant,2.31,1.16,115
+116,2,Ocotillo Power Plant,2.31,1.16,115
+117,CC4,APS West Phoenix Power Plant,101.31,100.04,126
+117,CC5A,APS West Phoenix Power Plant,162.41,160.8,320
+117,CC5B,APS West Phoenix Power Plant,163.45,110.36,278
+118,1,APS Saguaro Power Plant,106.55,104.83,114
+118,2,APS Saguaro Power Plant,101.39,99.82,104
+118,CT3,APS Saguaro Power Plant,41.29,40.04,83
+120,1,Yucca Power Plant,26.53,25.33,80
+120,CT5,Yuma Axis,21.11,20.1,50
+120,CT6,Yuma Axis,20.93,19.94,49
+124,GT1,De Moss Petrie Generating Station,41.86,40.58,85
+126,1,Irvington Generating Station,21.53,20.26,84
+126,2,Irvington Generating Station,21.36,20.08,85
+126,3,Irvington Generating Station,31.51,25.78,114
+126,4,Irvington Generating Station,40.87,40.04,166
+141,1,Agua Fria Generating Station,113.43,112.28,228
+141,2,Agua Fria Generating Station,227.34,226.17,232
+141,3,Agua Fria Generating Station,185.25,183.32,384
+147,K-1,Kyrene Generating Station,35.1,30.75,36
+147,K-2,Kyrene Generating Station,71.77,70.65,74
+147,K-7,Kyrene Generating Station,161.23,159.83,279
+160,1,Apache Station,23.15,22.2,94
+160,4,Apache Station,42.69,40.03,531
+228,10,Contra Costa Power Plant,53.83,51.76,412
+228,9,Contra Costa Power Plant,347,347,347
+246,1,Humboldt Bay,8.14,7.06,54
+246,2,Humboldt Bay,8.02,7.19,55
+247,3,Hunters Point,-1,-1,-1
+247,4,Hunters Point,-1,-1,-1
+247,5,Hunters Point,-1,-1,-1
+247,6,Hunters Point,-1,-1,-1
+247,7,Hunters Point,38.69,36.93,175
+259,1,"Morro Bay Power Plant, LLC",36.3,34.61,168
+259,2,"Morro Bay Power Plant, LLC",36.51,34.77,173
+259,3,"Morro Bay Power Plant, LLC",41.73,39.99,346
+259,4,"Morro Bay Power Plant, LLC",37.15,35.38,352
+260,1A,Moss Landing,261.67,169.41,301
+260,2A,Moss Landing,262.11,168.73,326
+260,3A,Moss Landing,262.54,259.07,346
+260,4A,Moss Landing,264.06,151.09,281
+260,1-Jun,Moss Landing,-1,-1,-1
+260,1-Jul,Moss Landing,-1,-1,-1
+271,1,Pittsburg Power Plant (CA),160.16,158.49,166
+271,2,Pittsburg Power Plant (CA),160.54,32.76,163
+271,3,Pittsburg Power Plant (CA),33.58,31.94,163
+271,4,Pittsburg Power Plant (CA),34.4,32.76,163
+271,5,Pittsburg Power Plant (CA),53.07,51.41,330
+271,6,Pittsburg Power Plant (CA),51.25,49.6,329
+271,7,Pittsburg Power Plant (CA),714.35,223.46,729
+273,1-Mar,Potrero Power Plant,-1,-1,-1
+302,1,Cabrillo Power I Encina Power Station,24.2,22.51,112
+302,2,Cabrillo Power I Encina Power Station,26.12,23.85,113
+302,3,Cabrillo Power I Encina Power Station,24.54,23.22,132
+302,4,Cabrillo Power I Encina Power Station,30.65,29.04,321
+302,5,Cabrillo Power I Encina Power Station,31.21,29.47,345
+310,1,"Dynegy South Bay, LLC",36.98,55.48,160
+310,2,"Dynegy South Bay, LLC",36.18,33.77,160
+310,3,LSP South Bay LLC,37.05,35.1,194
+310,4,"Dynegy South Bay, LLC",51.64,49.24,239
+315,1,AES Alamitos,16.46,15.55,182
+315,2,AES Alamitos,16.64,14.79,184
+315,3,AES Alamitos,27.58,25.85,343
+315,4,AES Alamitos,27.74,26.01,345
+315,5,AES Alamitos,75.92,73.31,521
+315,6,AES Alamitos,79.6,71.9,511
+329,1,Coolwater Generating Station,69.22,18.2,71
+329,2,Coolwater Generating Station,88.11,21.02,89
+329,31,Coolwater Generating Station,44.7,43.31,139
+329,32,Coolwater Generating Station,45.08,43.69,138
+329,41,Coolwater Generating Station,44.42,43.06,136
+329,42,Coolwater Generating Station,44.11,42.11,133
+330,3,El Segundo,76.38,74.47,380
+330,4,El Segundo,78.29,76.38,380
+330,5,El Segundo,263.19,261.67,301
+330,7,El Segundo,250.13,158.55,272
+331,1,Etiwanda Generating Station,39.14,37.81,132
+331,2,Etiwanda Generating Station,128.68,127.36,132
+331,3,Etiwanda Generating Station,32.56,28.94,360
+331,4,Etiwanda Generating Station,32.56,30.84,341
+334,1,Riverside Canal Power Company,-1,-1,-1
+334,2,Riverside Canal Power Company,-1,-1,-1
+334,3,Riverside Canal Power Company,-1,-1,-1
+334,4,Riverside Canal Power Company,-1,-1,-1
+335,1,AES Huntington Beach,22.06,20.89,231
+335,2,AES Huntington Beach,22.63,20.25,237
+335,3A,AES Huntington Beach,94.77,92.46,230
+335,4A,AES Huntington Beach,95.6,93.27,232
+341,1,Long Beach Generating Station,49.83,48.48,67
+341,2,Long Beach Generating Station,49.49,48.48,67
+341,3,Long Beach Generating Station,49.75,48.42,66
+341,4,Long Beach Generating Station,49.75,48.42,66
+345,1,Mandalay Generating Station,25.65,24.48,232
+345,2,Mandalay Generating Station,25.43,24.27,230
+350,1,Ormond Beach Generating Station,112.94,109.05,775
+350,2,Ormond Beach Generating Station,60.3,56.28,800
+356,17,AES Redondo Beach,95.88,94.97,180
+356,5,AES Redondo Beach,12.15,10.28,186
+356,6,AES Redondo Beach,11.95,10.12,183
+356,7,AES Redondo Beach,134.92,132.23,537
+356,8,AES Redondo Beach,134.31,131.73,514
+358,1,"Mountainview Power Company, LLC",64.01,63.02,66
+358,2,"Mountainview Power Company, LLC",63,62.37,63
+358,1-Mar,"Mountainview Power Company, LLC",-1,-1,-1
+358,2-Mar,"Mountainview Power Company, LLC",-1,-1,-1
+358,1-Apr,"Mountainview Power Company, LLC",-1,-1,-1
+358,2-Apr,Mountainview Generating Station,-1,-1,-1
+375,M4,Magnolia (OLD),7,6.89,7
+377,4,Grayson Power Plant,16.8,15.48,44
+377,5,Grayson Power Plant,18.13,16.8,44
+377,9,Grayson,27.42,25.37,51
+389,2-Feb,El Centro,-1,-1,-1
+389,3,El Centro,16.8,15.7,44
+389,1-Mar,El Centro,-1,-1,-1
+389,2-Mar,El Centro,-1,-1,-1
+389,4,El Centro,23.06,21.94,74
+399,**10A,Harbor Generating Station,109.4,106.73,177
+399,**10B,Harbor Generating Station,124.77,112.3,2483
+399,10,Harbor Generating Station,48.24,47.24,50
+399,11,Harbor Generating Station,48.24,46.98,50
+399,12,Harbor Generating Station,48.24,47.24,50
+399,13,Harbor Generating Station,48.49,47.24,50
+399,14,Harbor Generating Station,48.24,47.24,50
+400,1,Haynes Generating Station,51.43,50.23,238
+400,10,Haynes Generating Station,181.33,179.38,388
+400,11,Haynes Generating Station,101.96,100.93,103
+400,12,Haynes Generating Station,101.91,100.86,104
+400,13,Haynes Generating Station,101.96,100.41,103
+400,14,Haynes Generating Station,101.96,100.93,103
+400,15,Haynes Generating Station,101.96,100.93,103
+400,16,Haynes Generating Station,101.83,100.78,105
+400,2,Haynes Generating Station,51.69,50.29,278
+400,3,Haynes Generating Station,31.66,30.39,252
+400,4,Haynes Generating Station,32.78,30.44,233
+400,5,Haynes Generating Station,123.02,121.21,360
+400,6,Haynes Generating Station,123.83,120.48,333
+400,9,Haynes Generating Station,181.31,178.01,328
+404,1,Scattergood Generating Station,46.73,44.86,186
+404,2,Scattergood Generating Station,51.68,45.11,187
+404,3,Scattergood Generating Station,68.2,63.5,468
+404,4,Scattergood Generating Station,215.31,213.08,222
+404,6,Scattergood Generating Station,106.26,105.17,109
+404,7,Scattergood Generating Station,106.26,105.17,109
+408,3,Valley Gen Station,41.49,40.62,172
+408,4,Valley Gen Station,41.97,40.22,174
+408,5,Valley Gen Station,48,46.79,48
+408,6,Valley Gen Station,170.9,169.11,358
+408,7,Valley Gen Station,169.9,168.17,345
+420,B1,Broadway,9.06,8.03,34
+420,B2,Broadway,12.1,11.02,43
+420,B3,Broadway,20.69,19.27,71
+422,GT3,Glenarm,17.24,16.01,49
+422,GT4,Glenarm,19.06,18.09,48
+422,GT5,Glenarm,22.12,21.05,71
+469,5,Cherokee,95.88,94.28,318
+469,6,Cherokee,97.48,95.88,318
+478,1,Zuni,18.15,14.48,43
+478,2,Zuni,27.66,16.64,43
+478,3,Zuni,28.64,1.13,75
+607,CT3,Fredonia Generating Station,54.21,51.1,62
+607,CT4,Fredonia Generating Station,54.52,51.1,62
+2176,GT-2,Glendive Generating Station,12.54,11.1,48
+2322,1,Clark,24.42,23.29,45
+2322,11A,Clark,26.68,25.33,30
+2322,11B,Clark,27.44,26.17,28
+2322,12A,Clark,27.4,26.09,29
+2322,12B,Clark,28.04,26.23,30
+2322,13A,Clark,27.02,25.89,28
+2322,13B,Clark,27.59,26.38,30
+2322,14A,Clark,27.25,26.09,29
+2322,14B,Clark,26.59,25.19,28
+2322,15A,Clark,27.83,26.38,29
+2322,15B,Clark,27.4,26.09,29
+2322,16A,Clark,27.69,26.38,29
+2322,16B,Clark,27.26,26.02,31
+2322,17A,Clark,26.98,25.93,30
+2322,17B,Clark,26.96,25.79,29
+2322,18A,Clark,26.73,25.47,28
+2322,18B,Clark,25.75,24.34,28
+2322,19A,Clark,26.87,25.75,28
+2322,19B,Clark,26.96,25.79,29
+2322,2,Clark,39.25,38.18,71
+2322,20A,Clark,26.81,25.65,29
+2322,20B,Clark,26.96,25.79,29
+2322,21A,Clark,27.25,26.09,29
+2322,21B,Clark,27.16,25.89,28
+2322,22A,Clark,27.74,26.68,30
+2322,22B,Clark,27.11,25.65,29
+2322,3,Clark,25.25,24.12,75
+2326,1,Sunrise,33.99,33.1,89
+2330,1,Fort Churchill,22.93,21.75,117
+2330,2,Fort Churchill,22.93,21.17,117
+2336,2,Tracy,23.08,21.84,82
+2336,3,Tracy,35.46,34.33,112
+2336,4,Tracy,38.19,35.38,80
+2336,5,Tracy,43.12,35.28,78
+2336,6,Tracy,90.38,88.73,109
+2336,8,Tracy,221.43,218.35,306
+2336,9,Tracy,221.43,218.35,306
+2444,6,Rio Grande,23.62,22.36,50
+2444,7,Rio Grande,23.07,22.04,51
+2444,8,Rio Grande,56.63,55.02,161
+2444,9,Rio Grande,91.18,51.14,96
+2446,051B,Maddox,38.25,36.95,129
+2450,1,Reeves Generating Station,24.3,42.33,52
+2450,2,Reeves Generating Station,13.07,12.06,100
+2450,3,Reeves Generating Station,29.02,27.89,75
+2454,121B,Cunningham,34.09,33.42,133
+2454,122B,Cunningham,63.76,61.67,208
+2454,123T,Cunningham,96.42,92.89,117
+2454,124T,Cunningham,95.68,88.36,112
+3456,**4,Newman,11.58,10.29,128
+3456,**5,Newman,72.86,47.74,125
+3456,1,Newman,38.41,35.88,84
+3456,2,Newman,42.44,36.67,82
+3456,3,Newman,45.38,43.79,105
+3456,GT-6A,Newman,68.82,45.17,214
+3456,GT-6B,Newman,56.28,45.03,140
+3648,1,Gadsby,33.42,29.9,70
+3648,2,Gadsby,34.05,29.79,77
+3648,3,Gadsby,31.23,30.1,113
+3648,4,Gadsby,22.88,21.96,46
+3648,5,Gadsby,22.88,21.96,46
+3648,6,Gadsby,22.88,21.96,46
+3845,30,Centralia,50.09,48.96,56
+3845,40,Centralia,48.96,45.59,56
+3845,50,Centralia,49.39,48.03,54
+3845,60,Centralia,49.47,48.09,55
+6013,1,Olive,-1,-1,-1
+6013,2,Olive,-1,-1,-1
+6112,2,Fort St. Vrain,237.25,233.16,407
+6112,3,Fort St. Vrain,240.41,238.24,431
+6112,4,Fort St. Vrain,240.5,126.77,371
+6112,5,Fort St. Vrain,137.63,136.8,164
+6112,6,Fort St. Vrain,128.46,126.79,166
+6761,A,Rawhide Energy Station,65.85,65.07,78
+6761,B,Rawhide Energy Station,66.73,65.48,83
+6761,C,Rawhide Energy Station,66.35,65.13,81
+6761,D,Rawhide Energy Station,66.24,65.07,78
+6761,F,Rawhide Energy Station,129.53,128.04,149
+7082,**3,Harry Allen,73.76,69.64,82
+7082,**4,Harry Allen,73.41,71.64,88
+7082,**5,Harry Allen,233.73,172.22,272
+7082,**6,Harry Allen,231.84,229.1,273
+7266,1,Woodland Generation Station,45.98,44.97,50
+7266,2,Woodland Generation Station,62.23,60.93,86
+7307,5,Redding Power Plant,25.33,24.12,120
+7307,6,Redding Power Plant,43.93,42.68,62
+7315,1,Almond Power Plant,50.49,49.46,51
+7315,2,Almond Power Plant,52.37,50.74,54
+7315,3,Almond Power Plant,52.24,51.13,55
+7315,4,Almond Power Plant,52.34,35.18,56
+7350,CTG1,Coyote Springs,207.29,205.9,275
+7350,CTG2,Coyote Springs,206.52,204.96,309
+7449,NA1,NCPA Combustion Turbine Project #2,51.4,50.07,53
+7456,1,Rathdrum Combustion Turbine Project,81.53,80.08,96
+7456,2,Rathdrum Combustion Turbine Project,79.11,77.74,91
+7504,CT1,Neil Simpson II,40,38.59,40
+7527,1,Carson Cogeneration,54.42,52.61,361
+7527,2,Carson Cogeneration,40.94,39.89,42
+7551,1A,SCA Cogen II,50.95,49.32,65
+7551,1B,SCA Cogen II,50.28,48.54,69
+7551,1C,SCA Cogen II,43.22,41.96,50
+7552,1,Sacramento Power Authority Cogen,110.71,108.66,204
+7605,1,River Road,257.91,249.68,273
+7693,1,Anaheim Combustion Turbine,48.86,44.68,52
+7870,CT1,Encogen Generating Station,38.83,37.45,46
+7870,CT2,Encogen Generating Station,40.68,39.53,46
+7870,CT3,Encogen Generating Station,40.48,39.12,45
+7945,1,Finley Combustion Turbine,29.75,23.68,31
+7953,CT1,Evander Andrews Power Complex,170.17,167.1,204
+7953,CT2,Evander Andrews Power Complex,43.42,42.06,54
+7953,CT3,Evander Andrews Power Complex,41.81,40.48,53
+7967,1,Lordsburg Generating Station,41.06,39.54,43
+7967,2,Lordsburg Generating Station,41.79,40.46,44
+7975,1,Pyramid Generating Station,41.7,40.62,43
+7975,2,Pyramid Generating Station,41.27,39.97,43
+7975,3,Pyramid Generating Station,26.58,25.5,43
+7975,4,Pyramid Generating Station,41.06,39.76,43
+7987,1,Lake,-1,-1,-1
+7999,1,Grays Harbor Energy Center,269.26,257.41,337
+7999,2,Grays Harbor Energy Center,267.83,258.33,378
+8068,5A,Santan,284.17,280.9,325
+8068,5B,Santan,285.24,160.33,371
+8068,6A,Santan,163.04,161.46,315
+8219,2,Ray D Nixon,34.01,20.08,36
+8219,3,Ray D Nixon,33.83,20.08,36
+10034,S-100,"Calpine Gilroy Cogen, LP",108.11,98.97,303
+10156,GEN1,"Fresno Cogeneration Partners, LP",30.04,28.81,49
+10169,D1,Carson Cogeneration Company,54.59,53.47,56
+10294,2,"Gilroy Energy Center, LLC for King City",47.03,46.05,49
+10349,2,Yuba City Energy Center,22.79,21.53,63
+10350,1,Greenleaf One,57.42,55.38,58
+10405,1,Kingsburg Cogen Facility,25,23.37,25
+10682,GT2,Brush Power Projects,26.53,24.87,55
+10682,GT4,Brush Power Projects,4.31,3.14,78
+10682,GT5,Brush Power Projects,30.95,46.43,77
+10761,1,"Las Vegas Cogeneration II, LLC",41.79,40.46,44
+10761,2,"Las Vegas Cogeneration II, LLC",46.07,44.86,48
+10761,3,"Las Vegas Cogeneration II, LLC",46.55,19.54,48
+10761,4,"Las Vegas Cogeneration II, LLC",46.55,45.11,48
+10761,5,Las Vegas Cogeneration,47.04,19.54,48
+10812,CT1,North Island,-1,-1,-1
+50131,1,Coalinga Cogeneration Company,42.14,38.89,43
+50707,S001,J M Shafer,15.06,13.02,37
+50707,S002,J M Shafer,35.88,13.57,37
+50707,S003,J M Shafer,15.8,13.2,37
+50707,S004,J M Shafer,15.99,14.13,37
+50707,S005,J M Shafer,16.55,14.32,37
+50864,1,Sargent Canyon Cogen Company,37.15,35.25,42
+50865,1,Salinas River Cogeneration Company,37.82,35.95,53
+54476,CT-1,Sumas Generating Station,53.27,51.76,100
+54537,CT-1A,Ferndale Generating Station,85.93,83.42,100
+54537,CT-1B,Ferndale Generating Station,83.07,81.16,95
+54694,4101,Yuma Cogeneration Associates,41.21,40.03,59
+54749,1,Goal Line,43.9,42.85,52
+54761,1,Hermiston,163.32,116.83,250
+54761,2,Hermiston,162.66,116.37,249
+54814,1,Milagro Cogeneration and Gas Plant,31.75,30.68,71
+54814,2,Milagro Cogeneration and Gas Plant,31.24,30.12,111
+54854,3,Sun Peak Generating Station,74,73.26,74
+54854,4,Sun Peak Generating Station,74,72.88,74
+54854,5,Sun Peak Generating Station,74,72.51,74
+55039,GT-1,Rio Bravo Generating Station,83.1,80.7,159
+55077,EDE1,Desert Star Energy Center,249.78,145.38,263
+55077,EDE2,Desert Star Energy Center,166.6,144.64,257
+55103,CT1,Klamath Cogeneration Project,259.33,158.17,366
+55103,CT2,Klamath Cogeneration Project,257.91,157.31,364
+55112,CT01,Calpine Sutter Energy Center,282.09,271.13,545
+55112,CT02,Calpine Sutter Energy Center,282.93,269.07,552
+55124,P1,Griffith Energy LLC,300.93,298.85,413
+55124,P2,Griffith Energy LLC,295.54,292.04,348
+55127,CT1,Manchief Generating Station,134.18,107.01,169
+55127,CT2,Manchief Generating Station,131.87,130.26,161
+55129,DBG1,Desert Basin Generating Station,172.54,170.95,315
+55129,DBG2,Desert Basin Generating Station,173.37,169.9,345
+55151,CTG-1,La Paloma Generating Plant,251.05,249.68,273
+55151,CTG-2,La Paloma Generating Plant,251.76,250.25,300
+55151,CTG-3,La Paloma Generating Plant,251.76,135.68,300
+55151,CTG-4,La Paloma Generating Plant,251.76,248.74,300
+55177,A,"South Point Energy Center, LLC",253.92,246.41,299
+55177,B,"South Point Energy Center, LLC",254.44,251.52,291
+55179,CTGEN1,"Rathdrum Power, LLC",250.3,245.88,293
+55182,CTG1,Sunrise Power Company,249.82,246.76,305
+55182,CTG2,Sunrise Power Company,248.52,245.35,315
+55200,CT5,Arapahoe Combustion Turbine Facility,41.65,40.53,74
+55200,CT6,Arapahoe Combustion Turbine Facility,42.1,40.67,71
+55207,CT7,Valmont Combustion Turbine Facility,41.8,15.82,47
+55207,CT8,Valmont Combustion Turbine Facility,42.53,41.38,46
+55210,1,Afton Generating Station,-1,-1,-1
+55217,X724,"Los Medanos Energy Center, LLC",284.02,186.19,314
+55217,X725,"Los Medanos Energy Center, LLC",187.77,186.19,314
+55282,CTG1,Arlington Valley Energy Facility,290.95,289.45,300
+55282,CTG2,Arlington Valley Energy Facility,292.34,290.82,303
+55283,1,Front Range Power Plant,113.55,110.84,269
+55283,2,Front Range Power Plant,113.32,111.93,275
+55295,1,Blythe Energy,116.22,115.24,196
+55295,2,Blythe Energy,116.01,115.04,194
+55306,1CTGA,Gila River Power Station,180.88,179.31,313
+55306,1CTGB,Gila River Power Station,246.91,245.32,317
+55306,2CTGA,Gila River Power Station,252.28,213.59,308
+55306,2CTGB,Gila River Power Station,254.74,175.04,311
+55306,3CTGA,Gila River Power Station,175.46,173.91,309
+55306,3CTGB,Gila River Power Station,176.38,173.12,325
+55306,4CTGA,Gila River Power Station,175.28,173.67,320
+55306,4CTGB,Gila River Power Station,176.92,175.3,323
+55322,CTG-1,Chuck Lenzie Generating Station,176.23,172.87,334
+55322,CTG-2,Chuck Lenzie Generating Station,241.78,238.79,297
+55322,CTG-3,Chuck Lenzie Generating Station,175.3,164.53,306
+55322,CTG-4,Chuck Lenzie Generating Station,239.84,204.7,304
+55328,CTG-1,Hermiston Power Plant,285.56,287.41,369
+55328,CTG-2,Hermiston Power Plant,296.01,294.21,357
+55333,1,"Delta Energy Center, LLC",295.88,210.65,320
+55333,2,"Delta Energy Center, LLC",274.22,206.47,321
+55333,3,"Delta Energy Center, LLC",276.45,207.74,318
+55343,CTG1,Luna Energy Facility,142.31,140.83,295
+55343,CTG2,Luna Energy Facility,142.74,141.24,299
+55345,CTG-1,"Otay Mesa Energy Center, LLC",256.38,150.99,313
+55345,CTG-2,"Otay Mesa Energy Center, LLC",152.57,150.99,313
+55372,CTG1,"New Harquahala Generating Company, LLC",203.55,194.47,258
+55372,CTG2,"New Harquahala Generating Company, LLC",203.82,193.37,260
+55372,CTG3,"New Harquahala Generating Company, LLC",204.22,194.01,254
+55393,1,Metcalf Energy Center,275.73,274.17,310
+55393,2,Metcalf Energy Center,278.59,191.92,308
+55400,CTG-1,Elk Hills Power,218.53,285.11,288
+55400,CTG-2,Elk Hills Power,218.53,217.09,288
+55453,1,Fountain Valley Power Plant,18.13,16.58,44
+55453,2,Fountain Valley Power Plant,41.61,40.45,46
+55453,3,Fountain Valley Power Plant,41.38,40.03,45
+55453,4,Fountain Valley Power Plant,41.38,16.51,45
+55453,5,Fountain Valley Power Plant,41.16,16.51,45
+55453,6,Fountain Valley Power Plant,41.15,16.64,46
+55455,CC1A,Redhawk Generating Facility,112.49,111.05,287
+55455,CC1B,Redhawk Generating Facility,112.49,111.05,287
+55455,CC2A,Redhawk Generating Facility,111.95,110.53,282
+55455,CC2B,Redhawk Generating Facility,111.16,109.75,280
+55477,CT2,Neil Simpson II (CT2),40,39.6,40
+55481,1,Mesquite Generating Station,264.82,165.73,340
+55481,2,Mesquite Generating Station,259.3,162.49,344
+55481,5,Mesquite Generating Station,258.69,159.2,330
+55481,6,Mesquite Generating Station,258.93,161.83,339
+55482,CT-1,Goldendale Generating Station,172.06,168.84,320
+55494,CT1,Tri-Center Naniwa Energy,50.95,49.91,52
+55494,CT2,Tri-Center Naniwa Energy,50.74,49.46,51
+55494,CT3,Tri-Center Naniwa Energy,50.63,49.65,65
+55494,CT4,Tri-Center Naniwa Energy,51,49.97,51
+55494,CT5,Tri-Center Naniwa Energy,50.95,49.91,52
+55494,CT6,Tri-Center Naniwa Energy,50.69,49.65,52
+55499,GT-1,CalPeak Power - Vaca Dixon LLC,46.43,45.05,55
+55504,L1,Limon Generating Station,68.4,44.91,82
+55504,L2,Limon Generating Station,65.9,65.07,83
+55505,BR1,Frank Knutson Station,65.93,64.72,80
+55505,BR2,Frank Knutson Station,50.88,49.66,81
+55508,GT-1,CalPeak Power - Panoche LLC,46.43,45.23,60
+55510,GT-1,CalPeak Power - Border LLC,49.01,45.54,53
+55512,GT-1,CalPeak Power - El Cajon LLC,46.34,42.88,53
+55513,GT-1,CalPeak Power - Enterprise LLC,47.41,45.87,51
+55514,CTG01,Apex Generating Station,232.16,230.65,300
+55514,CTG02,Apex Generating Station,163.07,160.3,275
+55518,CTG1,High Desert Power Project,157.39,115.42,174
+55518,CTG2,High Desert Power Project,160.11,115.39,178
+55518,CTG3,High Desert Power Project,159.21,116.04,179
+55522,CT01,Sundance Power Plant,42.96,41.71,50
+55522,CT02,Sundance Power Plant,42.96,41.71,50
+55522,CT03,Sundance Power Plant,42.96,41.71,50
+55522,CT04,Sundance Power Plant,42.96,41.46,50
+55522,CT05,Sundance Power Plant,42.71,41.46,50
+55522,CT06,Sundance Power Plant,42.71,41.46,50
+55522,CT07,Sundance Power Plant,43.22,41.71,50
+55522,CT08,Sundance Power Plant,42.71,41.46,50
+55522,CT09,Sundance Power Plant,42.71,41.46,50
+55522,CT10,Sundance Power Plant,43.22,41.71,50
+55538,CT1A,"Escondido Energy Center, LLC",17.89,16.88,20
+55538,CT1B,"Escondido Energy Center, LLC",17.89,16.88,20
+55538,CTG1,"Escondido Energy Center, LLC",49.5,46.48,50
+55540,1A,Chula Vista Energy Center,18.39,17.19,30
+55540,1B,Chula Vista Energy Center,18.01,16.88,28
+55541,1,Indigo Generation Facility,45.73,37.19,50
+55541,2,Indigo Generation Facility,46.23,37.19,50
+55541,3,Indigo Generation Facility,38.19,36.93,50
+55542,1,Larkspur Energy Faciity,47.24,38.19,50
+55542,2,Larkspur Energy Faciity,47.24,39.2,50
+55544,GT1,Klamath Energy LLC,24.36,22.91,48
+55544,GT2,Klamath Energy LLC,24.72,23.22,30
+55544,GT3,Klamath Energy LLC,23.99,22.28,31
+55544,GT4,Klamath Energy LLC,23.38,21.73,47
+55622,U1,West Valley Generation Project,12.06,10.85,60
+55622,U2,West Valley Generation Project,12.06,10.85,60
+55622,U3,West Valley Generation Project,12.06,10.85,60
+55622,U4,West Valley Generation Project,11.98,11.08,45
+55622,U5,West Valley Generation Project,12.05,11.02,51
+55625,UNIT1,Creed Energy Center,48.24,46.98,50
+55626,UNIT1,Lambie Energy Center,48.24,46.98,50
+55627,UNIT1,Goose Haven Energy Center,48.24,46.98,50
+55645,CT-01,Blue Spruce Energy Center,94.66,93.04,161
+55645,CT-02,Blue Spruce Energy Center,141.65,92.8,162
+55656,CT001,Pastoria Energy Facility,264.06,262.64,281
+55656,CT002,Pastoria Energy Facility,262.63,261.24,278
+55656,CT004,Pastoria Energy Facility,254.71,248.08,264
+55662,CT1,Chehalis Generation Facility,172.54,156.71,315
+55662,CT2,Chehalis Generation Facility,173.37,166.43,276
+55683,1,Boardman Power Holdings LLC,24.5,22.49,25
+55687,BHG1,Walter M. Higgins III Generating Station,115.28,112.16,310
+55687,BHG2,Walter M. Higgins III Generating Station,114.9,111.8,309
+55698,HEP1,Hanford Energy Park Peaker,47.16,33.32,51
+55698,HEP2,Hanford Energy Park Peaker,48.18,33.32,51
+55700,CTG1,Mint Farm Generating Station,197.79,192.84,328
+55733,CT01,Bennett Mountain Power Project,164.64,161.61,201
+55748,CTG1,Los Esteros Critical Energy Facility,48.84,48.03,81
+55748,CTG2,Los Esteros Critical Energy Facility,49.05,47.84,80
+55748,CTG3,Los Esteros Critical Energy Facility,48.8,47.55,83
+55748,CTG4,Los Esteros Critical Energy Facility,49.05,47.84,80
+55802,CTG1,Valencia Power Plant,85.27,83.58,168
+55807,HPP1,Henrietta Peaker Plant,46.51,24.82,52
+55807,HPP2,Henrietta Peaker Plant,46.77,24.82,52
+55810,S-3,"Gilroy Energy Center, LLC",48.49,47.24,50
+55810,S-4,"Gilroy Energy Center, LLC",48.74,47.49,50
+55810,S-5,"Gilroy Energy Center, LLC",48.49,47.24,50
+55818,F1CT,Frederickson Power LP,255.98,254.56,283
+55835,1,Rocky Mountain Energy Center,311.87,139.73,403
+55835,2,Rocky Mountain Energy Center,307.54,138.69,400
+55841,A01,Silverhawk,173.74,154.6,293
+55841,A03,Silverhawk,156.84,155.39,289
+55847,UNIT1,Feather River Energy Center,22.91,22.01,60
+55853,1,Inland Empire Energy Center,211.58,219.64,401
+55853,2,Inland Empire Energy Center,181.86,179.92,385
+55855,UNIT1,Wolfskill Energy Center,48.49,47.24,50
+55858,UNT1,Desert Power Plant,37,36.07,37
+55858,UNT2,Desert Power Plant,28.04,35.64,36
+55875,GT1,"Wellhead Power Gates, LLC",45.87,45.11,51
+55933,TPP1,Tracy Combined Cycle Power Plant,127.16,125.95,241
+55933,TPP2,Tracy Combined Cycle Power Plant,127.36,125.59,176
+55951,AMP-1,Agua Mansa Power,44.57,43.09,49
+55963,1,Riverview Energy Center,48.74,46.98,50
+55970,2,Cosumnes Power Plant,167.98,165.23,274
+55970,3,Cosumnes Power Plant,167.98,165.23,274
+55977,CTG-1,Bluffview Power Plant,54.27,52.76,60
+55985,CTG1,Palomar Energy Center,275.54,268.05,298
+55985,CTG2,Palomar Energy Center,269.07,267.6,291
+56026,PCT1,Donald Von Raesfeld,63.84,62.3,77
+56026,PCT2,Donald Von Raesfeld,63.02,60.72,76
+56041,M1,Malburg Generating Station,48.96,40.1,84
+56041,M2,Malburg Generating Station,48.83,47.97,86
+56046,1,Magnolia (SCPPA),179.44,193.73,316
+56078,1,Walnut Energy Center,120.23,99.82,145
+56078,2,Walnut Energy Center,119.17,99.9,142
+56102,CTG1A,Currant Creek Power Project,145.63,143.52,420
+56102,CTG1B,Currant Creek Power Project,145.28,143.79,295
+56135,1,Ripon Generation Station,20.26,19.14,56
+56135,2,Ripon Generation Station,22.04,21.02,51
+56143,1,Riverside Energy Resource Center,50.49,49.21,51
+56143,2,Riverside Energy Resource Center,51.22,50.17,52
+56143,3,Riverside Energy Resource Center,51.74,50.69,52
+56143,4,Riverside Energy Resource Center,51.22,50.17,52
+56177,U1,Nebo Power Station,116.1,115.33,153
+56227,PWEU1,Port Westward,413.69,411.46,445
+56232,1,Miramar Energy Facility,49.5,48.24,50
+56232,2,Miramar Energy Facility,48.99,47.74,50
+56237,CT01,Lake Side Power Plant,195.33,193.63,338
+56237,CT02,Lake Side Power Plant,194.77,193.07,340
+56237,CT03,Lake Side Power Plant,206.25,204.59,331
+56237,CT04,Lake Side Power Plant,206.03,204.38,328
+56239,GT-1,Kings River Conservation District Malaga,49.91,48.62,129
+56239,GT-2,Kings River Conservation District Malaga,49.65,48.34,52
+56253,MC-1,Millcreek Power,39.6,37.62,394
+56253,MC-2,Millcreek Power,40.02,38.91,44
+56298,CT001,Roseville Energy Park,63.06,61.72,89
+56298,CT002,Roseville Energy Park,62.66,63.53,86
+56445,CT-01,Spindle Hill Energy Center,144.37,82.38,169
+56445,CT-02,Spindle Hill Energy Center,143.44,82.09,165
+56458,HOBB1,Hobbs Generating Station,240.56,238.79,352
+56458,HOBB2,Hobbs Generating Station,239.47,237.7,353
+56467,CT1,Russell City Energy Company LLC,286.4,284.78,322
+56467,CT2,Russell City Energy Company LLC,264.54,283.9,321
+56471,CT1,McGrath Generating Station,51,49.97,51
+56472,CT1,Grapeland Generating Station,49.46,47.67,51
+56473,CT1,Mira Loma Peaker,49.72,47.92,51
+56474,CT1,Barre Peaker,51,49.72,51
+56475,CT1,Center Peaker,50.74,49.21,51
+56476,GT1,Gateway Generating Station,271.06,269.5,310
+56476,GT2,Gateway Generating Station,272.17,270.63,306
+56482,1,Black Mountain Generating Station,47.03,45.8,49
+56482,2,Black Mountain Generating Station,47.28,46.05,49
+56532,CT1,Colusa Generating Station,182.39,180.64,349
+56532,CT2,Colusa Generating Station,181.87,180.12,348
+56569,1,Niland Gas Turbine Plant,48.24,46.98,50
+56569,2,Niland Gas Turbine Plant,48.74,47.74,50
+56606,CT01,Culbertson Station,95.34,94.31,102
+56639,1,"Starwood Power Midway, LLC",58.85,44.45,61
+56639,2,"Midway Peaking, LLC",55.15,53.9,62
+56803,1,Panoche Energy Center,105.08,102.6,123
+56803,2,Panoche Energy Center,105.58,103.37,110
+56803,3,Panoche Energy Center,106.38,104.18,146
+56803,4,Panoche Energy Center,104.2,53.73,108
+56908,1A,Mill Creek Generating Station,24.82,5.49,26
+56908,1B,Mill Creek Generating Station,25.09,5.23,26
+56908,2A,Mill Creek Generating Station,25.09,5.23,26
+56908,2B,Mill Creek Generating Station,25.35,5.23,26
+56908,3A,Mill Creek Generating Station,25.09,5.36,26
+56908,3B,Mill Creek Generating Station,25.09,5.49,26
+56914,CTG1,Orange Grove Project,51,49.46,51
+56914,CTG2,Orange Grove Project,51,50.49,51
+56948,CT01,Coolidge Generating Station,45.8,44.57,49
+56948,CT02,Coolidge Generating Station,45.06,44.08,49
+56948,CT03,Coolidge Generating Station,45.31,44.08,49
+56948,CT04,Coolidge Generating Station,45.73,44.72,50
+56948,CT05,Coolidge Generating Station,45.98,44.72,50
+56948,CT06,Coolidge Generating Station,45.23,44.22,50
+56948,CT07,Coolidge Generating Station,45.8,44.57,49
+56948,CT08,Coolidge Generating Station,45.06,44.08,49
+56948,CT09,Coolidge Generating Station,45.31,44.08,49
+56948,CT10,Coolidge Generating Station,44.97,43.97,50
+56948,CT11,Coolidge Generating Station,45.31,44.08,49
+56948,CT12,Coolidge Generating Station,44.62,43.42,48
+56998,CT01,Pueblo Airport Generating Station,39.08,37.63,96
+56998,CT02,Pueblo Airport Generating Station,38.51,37.05,97
+56998,CT04,Pueblo Airport Generating Station,41.16,40.1,42
+56998,CT05,Pueblo Airport Generating Station,40.94,39.89,42
+56998,CT06,Pueblo Airport Generating Station,41,39.76,41
+56998,CT07,Pueblo Airport Generating Station,41.16,40.1,42
+56998,CT08,Pueblo Airport Generating Station,21.11,20.05,42
+57001,1,El Cajon Energy Center,50,46.23,50
+57027,1,Canyon Power Plant,51,49.97,51
+57027,2,Canyon Power Plant,51,49.97,51
+57027,3,Canyon Power Plant,51,49.97,51
+57027,4,Canyon Power Plant,51,49.97,51
+57028,CT1,Langley Gulch Power Plant,192.94,191.28,331
+57073,BLR1,Ivanpah 2,-1,-1,-1
+57074,BLR1,Ivanpah 1,-1,-1,-1
+57075,BLR1,Ivanpah 3,-1,-1,-1
+57267,1,Marsh Landing Generating Station,124.38,123.34,208
+57267,2,Marsh Landing Generating Station,124.22,123.19,206
+57267,3,Marsh Landing Generating Station,124.52,123.47,210
+57267,4,Marsh Landing Generating Station,124.52,122.41,210
+57480,HGS1,Highwood Generating Station,40.68,39.76,46
+57482,1,CPV Sentinel,95.94,94.82,111
+57482,2,CPV Sentinel,96.6,95.52,108
+57482,3,CPV Sentinel,95.71,94.63,107
+57482,4,CPV Sentinel,95.71,94.63,107
+57482,5,CPV Sentinel,96.18,94.52,110
+57482,6,CPV Sentinel,96.06,94.97,108
+57482,7,CPV Sentinel,95.85,49.84,109
+57482,8,CPV Sentinel,52.76,50.75,100
+57483,GT-1,Mariposa Energy Project,27.44,26.13,52
+57483,GT-2,Mariposa Energy Project,27.17,26.14,51
+57483,GT-3,Mariposa Energy Project,27.44,26.13,52
+57483,GT-4,Mariposa Energy Project,27.17,25.88,51
+57515,GT1,Walnut Creek Energy Park,102.16,101.09,107
+57515,GT2,Walnut Creek Energy Park,102.16,100.55,107
+57515,GT3,Walnut Creek Energy Park,101.62,100.55,107
+57515,GT4,Walnut Creek Energy Park,99.47,98.4,107
+57515,GT5,Walnut Creek Energy Park,100.55,98.93,107
+57555,CTG1,Pio Pico Energy Center LLC,55.08,53.94,113
+57555,CTG2,Pio Pico Energy Center LLC,54.9,53.74,115
+57555,CTG3,Pio Pico Energy Center LLC,54.79,53.63,116
+57703,CT01,Cheyenne Prairie Generating Station,39.2,37.99,40
+57703,CT02,Cheyenne Prairie Generating Station,38.79,37.79,40
+57703,CT03,Cheyenne Prairie Generating Station,31.16,29.95,40
+57978,CT1,Lodi Energy Center,203.67,100.25,210
+58122,GEN1,"Delano Energy Center, LLC",17.94,16.91,51
+58284,1,La Luz Energy Center,42,40.94,42
+58503,CTEU1,Carty Generating Station,442.55,417.83,492

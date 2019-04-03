@@ -1,0 +1,726 @@
+orispl_code,unitid,name,latitude,longitude,county,state,total_gen,capacity,fuel
+87,1,Escalante ,35.4159,-108.082,McKinley,NM,27886837,273,coal
+113,1,Cholla,34.9394,-110.3033,Navajo,AZ,13573545,132,coal
+113,2,Cholla,34.9394,-110.3033,Navajo,AZ,29133162,306,coal
+113,3,Cholla,34.9394,-110.3033,Navajo,AZ,30366954,307,coal
+113,4,Cholla,34.9394,-110.3033,Navajo,AZ,46565885,436,coal
+126,4,Irvington Generating Station,32.16,-110.9047,Pima,AZ,10665489,163,coal
+160,2,Apache Station,32.0619,-109.8931,Cochise,AZ,21272681,210,coal
+160,3,Apache Station,32.0619,-109.8931,Cochise,AZ,22677475,212,coal
+465,1,Arapahoe,39.67,-105.0028,Denver,CO,575222,44,coal
+465,2,Arapahoe,39.67,-105.0028,Denver,CO,412374,51,coal
+465,3,Arapahoe,39.67,-105.0028,Denver,CO,3416991,50,coal
+465,4,Arapahoe,39.67,-105.0028,Denver,CO,8670274,122,coal
+468,2,Cameo,39.1486,-108.3189,Mesa,CO,3176545,56,coal
+469,1,Cherokee,39.8078,-104.9648,Adams,CO,8116590,124,coal
+469,2,Cherokee,39.8078,-104.9648,Adams,CO,7676734,149,coal
+469,3,Cherokee,39.8078,-104.9648,Adams,CO,14776994,185,coal
+469,4,Cherokee,39.8078,-104.9648,Adams,CO,38345584,400,coal
+470,1,Comanche (470),38.2081,-104.5747,Pueblo,CO,38474566,368,coal
+470,2,Comanche (470),38.2081,-104.5747,Pueblo,CO,40699886,385,coal
+470,3,Comanche (470),38.2081,-104.5747,Pueblo,CO,34260247,872,coal
+477,5,Valmont,40.0195,-105.202,Boulder,CO,20534503,200,coal
+492,5,Martin Drake,38.8244,-104.8331,El Paso,CO,4916285,53,coal
+492,6,Martin Drake,38.8244,-104.8331,El Paso,CO,8976776,86,coal
+492,7,Martin Drake,38.8244,-104.8331,El Paso,CO,15285932,144,coal
+508,8,Lamar,38.0921,-102.6148,Prowers,CO,205537,39,coal
+525,H1,Hayden,40.4856,-107.185,Routt,CO,24008956,207,coal
+525,H2,Hayden,40.4856,-107.185,Routt,CO,34065002,300,coal
+527,1,Nucla,38.2387,-108.5083,Montrose,CO,10545580,115,coal
+2187,2,J E Corette,45.7747,-108.4803,Yellowstone,MT,15114032,172,coal
+2324,1,Reid Gardner,36.6531,-114.6364,Clark,NV,9094311,125,coal
+2324,2,Reid Gardner,36.6531,-114.6364,Clark,NV,8972727,127,coal
+2324,3,Reid Gardner,36.6531,-114.6364,Clark,NV,9000466,125,coal
+2324,4,Reid Gardner,36.6531,-114.6364,Clark,NV,23456165,304,coal
+2341,1,Mohave,35.1458,-114.5917,Clark,NV,26368466,828,coal
+2341,2,Mohave,35.1458,-114.5917,Clark,NV,26634824,825,coal
+2442,1,Four Corners Steam Elec Station,36.69,-108.4814,San Juan,NM,17591091,199,coal
+2442,2,Four Corners Steam Elec Station,36.69,-108.4814,San Juan,NM,18359890,197,coal
+2442,3,Four Corners Steam Elec Station,36.69,-108.4814,San Juan,NM,23283112,256,coal
+2442,4,Four Corners Steam Elec Station,36.69,-108.4814,San Juan,NM,90447395,830,coal
+2442,5,Four Corners Steam Elec Station,36.69,-108.4814,San Juan,NM,86338633,836,coal
+2451,1,San Juan,36.8006,-108.4386,San Juan,NM,41054523,381,coal
+2451,2,San Juan,36.8006,-108.4386,San Juan,NM,40055440,386,coal
+2451,3,San Juan,36.8006,-108.4386,San Juan,NM,59507007,570,coal
+2451,4,San Juan,36.8006,-108.4386,San Juan,NM,62318916,573,coal
+3644,1,Carbon,39.7272,-110.8644,Carbon,UT,7798814,79,coal
+3644,2,Carbon,39.7272,-110.8644,Carbon,UT,11946370,120,coal
+3845,BW21,Centralia,46.7559,-122.8578,Lewis,WA,65929439,776,coal
+3845,BW22,Centralia,46.7559,-122.8578,Lewis,WA,64359772,770,coal
+4158,BW41,Dave Johnston,42.8378,-105.7769,Converse,WY,13598469,121,coal
+4158,BW42,Dave Johnston,42.8378,-105.7769,Converse,WY,13930489,120,coal
+4158,BW43,Dave Johnston,42.8378,-105.7769,Converse,WY,27955993,260,coal
+4158,BW44,Dave Johnston,42.8378,-105.7769,Converse,WY,40343854,375,coal
+4162,1,Naughton,41.7572,-110.5986,Lincoln,WY,21270408,177,coal
+4162,2,Naughton,41.7572,-110.5986,Lincoln,WY,27202156,234,coal
+4162,3,Naughton,41.7572,-110.5986,Lincoln,WY,41535382,375,coal
+4941,1,Navajo Generating Station,36.9047,-111.3886,Coconino,AZ,98415666,865,coal
+4941,2,Navajo Generating Station,36.9047,-111.3886,Coconino,AZ,98510050,822,coal
+4941,3,Navajo Generating Station,36.9047,-111.3886,Coconino,AZ,97986643,819,coal
+6021,C1,Craig,40.4627,-107.5912,Moffat,CO,54947398,476,coal
+6021,C2,Craig,40.4627,-107.5912,Moffat,CO,54778705,473,coal
+6021,C3,Craig,40.4627,-107.5912,Moffat,CO,55754110,488,coal
+6076,1,Colstrip,45.8831,-106.614,Rosebud,MT,37857454,352,coal
+6076,2,Colstrip,45.8831,-106.614,Rosebud,MT,37475635,348,coal
+6076,3,Colstrip,45.8831,-106.614,Rosebud,MT,93194678,822,coal
+6076,4,Colstrip,45.8831,-106.614,Rosebud,MT,91196808,826,coal
+6089,B1,Lewis & Clark,47.6788,-104.1569,Richland,MT,5393809,58,coal
+6101,BW91,Wyodak,44.2886,-105.3847,Campbell,WY,47450064,405,coal
+6106,1SG,Boardman,45.6933,-119.8056,Morrow,OR,58514922,644,coal
+6165,1,Hunter,39.1747,-111.0289,Emery,UT,53267338,490,coal
+6165,2,Hunter,39.1747,-111.0289,Emery,UT,54739677,492,coal
+6165,3,Hunter,39.1747,-111.0289,Emery,UT,56823914,520,coal
+6177,U1B,Coronado Generating Station,34.5778,-109.2717,Apache,AZ,51787459,456,coal
+6177,U2B,Coronado Generating Station,34.5778,-109.2717,Apache,AZ,51833133,456,coal
+6204,1,Laramie River,42.1103,-104.8828,Platte,WY,67915942,635,coal
+6204,2,Laramie River,42.1103,-104.8828,Platte,WY,72133599,625,coal
+6204,3,Laramie River,42.1103,-104.8828,Platte,WY,70407338,629,coal
+6248,1,Pawnee,40.2217,-103.6803,Morgan,CO,57986669,561,coal
+6481,1SGA,Intermountain,39.5035,-112.5811,Millard,UT,110452777,980,coal
+6481,2SGA,Intermountain,39.5035,-112.5811,Millard,UT,112980708,985,coal
+6761,101,Rawhide Energy Station,40.8611,-105.0206,Larimer,CO,38981562,310,coal
+7504,1,Neil Simpson II,44.2853,-105.3841,Campbell,WY,12055229,101,coal
+7790,1,Bonanza,40.0864,-109.2844,Uintah,UT,61422085,507,coal
+8066,BW71,Jim Bridger,41.7378,-108.7875,Sweetwater,WY,63203276,581,coal
+8066,BW72,Jim Bridger,41.7378,-108.7875,Sweetwater,WY,63035522,585,coal
+8066,BW73,Jim Bridger,41.7378,-108.7875,Sweetwater,WY,62249182,570,coal
+8066,BW74,Jim Bridger,41.7378,-108.7875,Sweetwater,WY,62633858,580,coal
+8069,1,Huntington,39.3792,-111.0781,Emery,UT,55817348,513,coal
+8069,2,Huntington,39.3792,-111.0781,Emery,UT,56080549,506,coal
+8219,1,Ray D Nixon,38.6306,-104.7056,El Paso,CO,27496490,228,coal
+8223,1,Springerville Generating Station,34.3186,-109.1636,Apache,AZ,49753155,448,coal
+8223,2,Springerville Generating Station,34.3186,-109.1636,Apache,AZ,51698196,451,coal
+8223,4,Springerville Generating Station,34.3186,-109.1636,Apache,AZ,21695185,463,coal
+8223,TS3,Springerville Generating Station,34.3186,-109.1636,Apache,AZ,32268267,459,coal
+8224,1,North Valmy,40.8831,-117.1542,Humboldt,NV,24731355,1295,coal
+8224,2,North Valmy,40.8831,-117.1542,Humboldt,NV,25638781,309,coal
+50951,1,Sunnyside Cogeneration Associates,39.5472,-110.3917,Carbon,UT,840007,61,coal
+55479,1,Wygen I,44.2862,-105.3843,Campbell,WY,11096165,99,coal
+55749,U1,Hardin,45.7578,-107.6,Big Horn,MT,7445276,120,coal
+56224,1,TS Power Plant,40.7458,-116.5297,Eureka,NV,12291976,242,coal
+56319,1,Wygen II,44.2911,-105.3815,Campbell,WY,7268144,106,coal
+56596,1,Wygen III,44.2892,-105.3795,Campbell,WY,6525937,118,coal
+56609,1,Dry Fork Station,44.3901,-105.4591,Campbell,WY,20058563,453,coal
+9,CTG-1,Copper Station,31.7569,-106.375,El Paso,TX,285785,70,NG
+116,1,Ocotillo Power Plant,33.4225,-111.9122,Maricopa,AZ,1530494,115,NG
+116,2,Ocotillo Power Plant,33.4225,-111.9122,Maricopa,AZ,1452571,115,NG
+117,CC4,APS West Phoenix Power Plant,33.4417,-112.1583,Maricopa,AZ,3151024,126,NG
+117,CC5A,APS West Phoenix Power Plant,33.4417,-112.1583,Maricopa,AZ,9925536,320,NG
+117,CC5B,APS West Phoenix Power Plant,33.4417,-112.1583,Maricopa,AZ,9441140,278,NG
+118,1,APS Saguaro Power Plant,32.5517,-111.3,Pinal,AZ,739438,114,NG
+118,2,APS Saguaro Power Plant,32.5517,-111.3,Pinal,AZ,712629,104,NG
+118,CT3,APS Saguaro Power Plant,32.5517,-111.3,Pinal,AZ,250025,83,NG
+120,1,Yucca Power Plant,32.7214,-114.7097,Yuma,AZ,4238341,80,NG
+120,CT5,Yuma Axis,32.7214,-114.7097,Yuma,AZ,533086,50,NG
+120,CT6,Yuma Axis,32.7214,-114.7097,Yuma,AZ,526196,49,NG
+124,GT1,De Moss Petrie Generating Station,32.2511,-110.9889,Pima,AZ,310719,85,NG
+126,1,Irvington Generating Station,32.16,-110.9047,Pima,AZ,1567558,84,NG
+126,2,Irvington Generating Station,32.16,-110.9047,Pima,AZ,1632924,85,NG
+126,3,Irvington Generating Station,32.16,-110.9047,Pima,AZ,3218821,114,NG
+126,4,Irvington Generating Station,32.16,-110.9047,Pima,AZ,223912,158,NG
+141,1,Agua Fria Generating Station,33.5542,-112.2161,Maricopa,AZ,1590068,228,NG
+141,2,Agua Fria Generating Station,33.5542,-112.2161,Maricopa,AZ,1643801,232,NG
+141,3,Agua Fria Generating Station,33.5542,-112.2161,Maricopa,AZ,3548227,384,NG
+147,K-1,Kyrene Generating Station,33.3544,-111.9364,Maricopa,AZ,84954,36,NG
+147,K-2,Kyrene Generating Station,33.3544,-111.9364,Maricopa,AZ,0,0,NG
+147,K-7,Kyrene Generating Station,33.3544,-111.9364,Maricopa,AZ,12659300,279,NG
+160,1,Apache Station,32.0619,-109.8931,Cochise,AZ,1166256,94,NG
+160,4,Apache Station,32.0619,-109.8931,Cochise,AZ,547877,531,NG
+228,10,Contra Costa Power Plant,38.0184,-121.761,Contra Costa,CA,4974205,412,NG
+228,9,Contra Costa Power Plant,38.0184,-121.761,Contra Costa,CA,3208753,347,NG
+246,1,Humboldt Bay,40.7415,-124.2103,Humboldt,CA,2290994,54,NG
+246,2,Humboldt Bay,40.7415,-124.2103,Humboldt,CA,2270936,55,NG
+247,3,Hunters Point,37.7372,-122.378,San Francisco,CA,0,0,NG
+247,4,Hunters Point,37.7372,-122.378,San Francisco,CA,0,0,NG
+247,5,Hunters Point,37.7372,-122.378,San Francisco,CA,0,0,NG
+247,6,Hunters Point,37.7372,-122.378,San Francisco,CA,0,0,NG
+247,7,Hunters Point,37.7372,-122.378,San Francisco,CA,2723921,175,NG
+259,1,"Morro Bay Power Plant, LLC",35.3747,-120.8578,San Luis Obispo,CA,474611,168,NG
+259,2,"Morro Bay Power Plant, LLC",35.3747,-120.8578,San Luis Obispo,CA,599714,173,NG
+259,3,"Morro Bay Power Plant, LLC",35.3747,-120.8578,San Luis Obispo,CA,3951988,346,NG
+259,4,"Morro Bay Power Plant, LLC",35.3747,-120.8578,San Luis Obispo,CA,3691212,352,NG
+260,1A,Moss Landing,36.8042,-121.7775,Monterey,CA,15520665,271,NG
+260,2A,Moss Landing,36.8042,-121.7775,Monterey,CA,14436222,326,NG
+260,3A,Moss Landing,36.8042,-121.7775,Monterey,CA,15176621,346,NG
+260,4A,Moss Landing,36.8042,-121.7775,Monterey,CA,15530277,281,NG
+260,1-Jun,Moss Landing,36.8042,-121.7775,Monterey,CA,9966638,792,NG
+260,1-Jul,Moss Landing,36.8042,-121.7775,Monterey,CA,12397625,792,NG
+271,1,Pittsburg Power Plant (CA),38.0392,-121.894,Contra Costa,CA,761119,166,NG
+271,2,Pittsburg Power Plant (CA),38.0392,-121.894,Contra Costa,CA,644670,163,NG
+271,3,Pittsburg Power Plant (CA),38.0392,-121.894,Contra Costa,CA,559532,163,NG
+271,4,Pittsburg Power Plant (CA),38.0392,-121.894,Contra Costa,CA,751837,163,NG
+271,5,Pittsburg Power Plant (CA),38.0392,-121.894,Contra Costa,CA,4901406,330,NG
+271,6,Pittsburg Power Plant (CA),38.0392,-121.894,Contra Costa,CA,4230172,329,NG
+271,7,Pittsburg Power Plant (CA),38.0392,-121.894,Contra Costa,CA,9776907,729,NG
+273,1-Mar,Potrero Power Plant,37.7558,-122.3869,San Francisco,CA,6429636,213,NG
+302,1,Cabrillo Power I Encina Power Station,33.1408,-117.3342,San Diego,CA,1484136,112,NG
+302,2,Cabrillo Power I Encina Power Station,33.1408,-117.3342,San Diego,CA,1694484,113,NG
+302,3,Cabrillo Power I Encina Power Station,33.1408,-117.3342,San Diego,CA,2256876,132,NG
+302,4,Cabrillo Power I Encina Power Station,33.1408,-117.3342,San Diego,CA,8235052,321,NG
+302,5,Cabrillo Power I Encina Power Station,33.1408,-117.3342,San Diego,CA,9539416,345,NG
+310,1,"Dynegy South Bay, LLC",32.6131,-117.0964,San Diego,CA,3736635,160,NG
+310,2,"Dynegy South Bay, LLC",32.6131,-117.0964,San Diego,CA,3736966,160,NG
+310,3,LSP South Bay LLC,32.6131,-117.0964,San Diego,CA,3444793,194,NG
+310,4,"Dynegy South Bay, LLC",32.6131,-117.0964,San Diego,CA,1296753,239,NG
+315,1,AES Alamitos,33.7688,-118.1009,Los Angeles,CA,1030748,182,NG
+315,2,AES Alamitos,33.7688,-118.1009,Los Angeles,CA,1395223,184,NG
+315,3,AES Alamitos,33.7688,-118.1009,Los Angeles,CA,9359652,343,NG
+315,4,AES Alamitos,33.7688,-118.1009,Los Angeles,CA,7032483,345,NG
+315,5,AES Alamitos,33.7688,-118.1009,Los Angeles,CA,10409935,521,NG
+315,6,AES Alamitos,33.7688,-118.1009,Los Angeles,CA,7898899,511,NG
+329,1,Coolwater Generating Station,34.8622,-116.854,San Bernardino,CA,480902,71,NG
+329,2,Coolwater Generating Station,34.8622,-116.854,San Bernardino,CA,685704,89,NG
+329,31,Coolwater Generating Station,34.8622,-116.854,San Bernardino,CA,2377852,139,NG
+329,32,Coolwater Generating Station,34.8622,-116.854,San Bernardino,CA,2442917,138,NG
+329,41,Coolwater Generating Station,34.8622,-116.854,San Bernardino,CA,2349667,136,NG
+329,42,Coolwater Generating Station,34.8622,-116.854,San Bernardino,CA,2282793,133,NG
+330,3,El Segundo,33.9106,-118.425,Los Angeles,CA,424733,344,NG
+330,4,El Segundo,33.9106,-118.425,Los Angeles,CA,1119864,345,NG
+330,5,El Segundo,33.9106,-118.425,Los Angeles,CA,2844961,275,NG
+330,7,El Segundo,33.9106,-118.425,Los Angeles,CA,2757492,271,NG
+331,1,Etiwanda Generating Station,34.0911,-117.5256,San Bernardino,CA,236526,132,NG
+331,2,Etiwanda Generating Station,34.0911,-117.5256,San Bernardino,CA,331776,132,NG
+331,3,Etiwanda Generating Station,34.0911,-117.5256,San Bernardino,CA,4627797,360,NG
+331,4,Etiwanda Generating Station,34.0911,-117.5256,San Bernardino,CA,3401766,341,NG
+334,1,Riverside Canal Power Company,34.0225,-117.3325,San Bernardino,CA,0,0,NG
+334,2,Riverside Canal Power Company,34.0225,-117.3325,San Bernardino,CA,0,0,NG
+334,3,Riverside Canal Power Company,34.0225,-117.3325,San Bernardino,CA,0,0,NG
+334,4,Riverside Canal Power Company,34.0225,-117.3325,San Bernardino,CA,0,0,NG
+335,1,AES Huntington Beach,33.6436,-117.9788,Orange,CA,7047844,231,NG
+335,2,AES Huntington Beach,33.6436,-117.9788,Orange,CA,7074767,237,NG
+335,3A,AES Huntington Beach,33.6436,-117.9788,Orange,CA,2998428,230,NG
+335,4A,AES Huntington Beach,33.6436,-117.9788,Orange,CA,2435015,232,NG
+341,1,Long Beach Generating Station,33.7641,-118.2248,Los Angeles,CA,92768,67,NG
+341,2,Long Beach Generating Station,33.7641,-118.2248,Los Angeles,CA,96352,67,NG
+341,3,Long Beach Generating Station,33.7641,-118.2248,Los Angeles,CA,89061,66,NG
+341,4,Long Beach Generating Station,33.7641,-118.2248,Los Angeles,CA,85683,66,NG
+345,1,Mandalay Generating Station,34.2072,-119.2511,Ventura,CA,3658040,232,NG
+345,2,Mandalay Generating Station,34.2072,-119.2511,Ventura,CA,4401736,230,NG
+350,1,Ormond Beach Generating Station,34.1292,-119.1689,Ventura,CA,8137629,775,NG
+350,2,Ormond Beach Generating Station,34.1292,-119.1689,Ventura,CA,9619207,800,NG
+356,17,AES Redondo Beach,33.8504,-118.395,Los Angeles,CA,2002,180,NG
+356,5,AES Redondo Beach,33.8504,-118.395,Los Angeles,CA,807827,186,NG
+356,6,AES Redondo Beach,33.8504,-118.395,Los Angeles,CA,963173,183,NG
+356,7,AES Redondo Beach,33.8504,-118.395,Los Angeles,CA,8111086,537,NG
+356,8,AES Redondo Beach,33.8504,-118.395,Los Angeles,CA,6035678,514,NG
+358,1,"Mountainview Power Company, LLC",34.0836,-117.2408,San Bernardino,CA,26688,66,NG
+358,2,"Mountainview Power Company, LLC",34.0836,-117.2408,San Bernardino,CA,13335,63,NG
+358,1-Mar,"Mountainview Power Company, LLC",34.0836,-117.2408,San Bernardino,CA,17535625,353,NG
+358,2-Mar,"Mountainview Power Company, LLC",34.0836,-117.2408,San Bernardino,CA,16763664,332,NG
+358,1-Apr,"Mountainview Power Company, LLC",34.0836,-117.2408,San Bernardino,CA,17611160,300,NG
+358,2-Apr,Mountainview Generating Station,34.0836,-117.2408,San Bernardino,CA,17359601,289,NG
+375,M4,Magnolia (OLD),34.1781,-118.3139,Los Angeles,CA,273,7,NG
+377,4,Grayson Power Plant,34.1556,-118.2782,Los Angeles,CA,965349,44,NG
+377,5,Grayson Power Plant,34.1556,-118.2782,Los Angeles,CA,1386119,44,NG
+377,9,Grayson,34.1556,-118.2782,Los Angeles,CA,229702,51,NG
+389,2-Feb,El Centro,32.8022,-115.54,Imperial,CA,5375987,111,NG
+389,3,El Centro,32.8022,-115.54,Imperial,CA,539992,44,NG
+389,1-Mar,El Centro,32.8022,-115.54,Imperial,CA,1453535,72,NG
+389,2-Mar,El Centro,32.8022,-115.54,Imperial,CA,1594080,72,NG
+389,4,El Centro,32.8022,-115.54,Imperial,CA,2489904,74,NG
+399,**10A,Harbor Generating Station,33.7691,-118.2662,Los Angeles,CA,1842852,177,NG
+399,**10B,Harbor Generating Station,33.7691,-118.2662,Los Angeles,CA,2059493,2483,NG
+399,10,Harbor Generating Station,33.7691,-118.2662,Los Angeles,CA,148988,50,NG
+399,11,Harbor Generating Station,33.7691,-118.2662,Los Angeles,CA,170617,50,NG
+399,12,Harbor Generating Station,33.7691,-118.2662,Los Angeles,CA,166655,50,NG
+399,13,Harbor Generating Station,33.7691,-118.2662,Los Angeles,CA,156906,50,NG
+399,14,Harbor Generating Station,33.7691,-118.2662,Los Angeles,CA,169835,50,NG
+400,1,Haynes Generating Station,33.7639,-118.0942,Los Angeles,CA,5961778,238,NG
+400,10,Haynes Generating Station,33.7639,-118.0942,Los Angeles,CA,16614861,388,NG
+400,11,Haynes Generating Station,33.7639,-118.0942,Los Angeles,CA,288558,103,NG
+400,12,Haynes Generating Station,33.7639,-118.0942,Los Angeles,CA,111712,104,NG
+400,13,Haynes Generating Station,33.7639,-118.0942,Los Angeles,CA,271861,103,NG
+400,14,Haynes Generating Station,33.7639,-118.0942,Los Angeles,CA,111347,103,NG
+400,15,Haynes Generating Station,33.7639,-118.0942,Los Angeles,CA,268427,103,NG
+400,16,Haynes Generating Station,33.7639,-118.0942,Los Angeles,CA,213871,105,NG
+400,2,Haynes Generating Station,33.7639,-118.0942,Los Angeles,CA,6853549,278,NG
+400,3,Haynes Generating Station,33.7639,-118.0942,Los Angeles,CA,781833,252,NG
+400,4,Haynes Generating Station,33.7639,-118.0942,Los Angeles,CA,425799,233,NG
+400,5,Haynes Generating Station,33.7639,-118.0942,Los Angeles,CA,5999277,360,NG
+400,6,Haynes Generating Station,33.7639,-118.0942,Los Angeles,CA,3478532,333,NG
+400,9,Haynes Generating Station,33.7639,-118.0942,Los Angeles,CA,16265102,328,NG
+404,1,Scattergood Generating Station,33.9175,-118.4258,Los Angeles,CA,5013021,186,NG
+404,2,Scattergood Generating Station,33.9175,-118.4258,Los Angeles,CA,5350437,187,NG
+404,3,Scattergood Generating Station,33.9175,-118.4258,Los Angeles,CA,11356144,468,NG
+404,4,Scattergood Generating Station,33.9175,-118.4258,Los Angeles,CA,1429925,222,NG
+404,6,Scattergood Generating Station,33.9175,-118.4258,Los Angeles,CA,209963,109,NG
+404,7,Scattergood Generating Station,33.9175,-118.4258,Los Angeles,CA,230697,109,NG
+408,3,Valley Gen Station,34.2481,-118.3903,Los Angeles,CA,122323,172,NG
+408,4,Valley Gen Station,34.2481,-118.3903,Los Angeles,CA,105400,174,NG
+408,5,Valley Gen Station,34.2481,-118.3903,Los Angeles,CA,143065,48,NG
+408,6,Valley Gen Station,34.2481,-118.3903,Los Angeles,CA,13670285,358,NG
+408,7,Valley Gen Station,34.2481,-118.3903,Los Angeles,CA,13833779,345,NG
+420,B1,Broadway,34.1263,-118.1494,Los Angeles,CA,10171,34,NG
+420,B2,Broadway,34.1263,-118.1494,Los Angeles,CA,57696,43,NG
+420,B3,Broadway,34.1263,-118.1494,Los Angeles,CA,1068134,71,NG
+422,GT3,Glenarm,34.1256,-118.1474,Los Angeles,CA,388531,49,NG
+422,GT4,Glenarm,34.1256,-118.1474,Los Angeles,CA,332407,48,NG
+422,GT5,Glenarm,34.1256,-118.1474,Los Angeles,CA,42755,71,NG
+469,5,Cherokee,39.8078,-104.9648,Adams,CO,2370666,313,NG
+469,6,Cherokee,39.8078,-104.9648,Adams,CO,2745535,313,NG
+478,1,Zuni,39.7369,-105.0169,Denver,CO,61539,43,NG
+478,2,Zuni,39.7369,-105.0169,Denver,CO,35839,43,NG
+478,3,Zuni,39.7369,-105.0169,Denver,CO,89032,75,NG
+607,CT3,Fredonia Generating Station,48.4553,-122.435,Skagit,WA,366072,62,NG
+607,CT4,Fredonia Generating Station,48.4553,-122.435,Skagit,WA,341208,62,NG
+2176,GT-2,Glendive Generating Station,47.0539,-104.74,Dawson,MT,76246,48,NG
+2322,1,Clark,36.0875,-115.0507,Clark,NV,460293,45,NG
+2322,11A,Clark,36.0875,-115.0507,Clark,NV,68258,30,NG
+2322,11B,Clark,36.0875,-115.0507,Clark,NV,67576,28,NG
+2322,12A,Clark,36.0875,-115.0507,Clark,NV,83828,29,NG
+2322,12B,Clark,36.0875,-115.0507,Clark,NV,85666,30,NG
+2322,13A,Clark,36.0875,-115.0507,Clark,NV,62026,28,NG
+2322,13B,Clark,36.0875,-115.0507,Clark,NV,62997,30,NG
+2322,14A,Clark,36.0875,-115.0507,Clark,NV,82301,29,NG
+2322,14B,Clark,36.0875,-115.0507,Clark,NV,79854,28,NG
+2322,15A,Clark,36.0875,-115.0507,Clark,NV,78360,29,NG
+2322,15B,Clark,36.0875,-115.0507,Clark,NV,76479,29,NG
+2322,16A,Clark,36.0875,-115.0507,Clark,NV,86009,29,NG
+2322,16B,Clark,36.0875,-115.0507,Clark,NV,84631,31,NG
+2322,17A,Clark,36.0875,-115.0507,Clark,NV,76089,30,NG
+2322,17B,Clark,36.0875,-115.0507,Clark,NV,74475,29,NG
+2322,18A,Clark,36.0875,-115.0507,Clark,NV,84735,28,NG
+2322,18B,Clark,36.0875,-115.0507,Clark,NV,82611,28,NG
+2322,19A,Clark,36.0875,-115.0507,Clark,NV,74721,28,NG
+2322,19B,Clark,36.0875,-115.0507,Clark,NV,75608,29,NG
+2322,2,Clark,36.0875,-115.0507,Clark,NV,894985,71,NG
+2322,20A,Clark,36.0875,-115.0507,Clark,NV,89859,29,NG
+2322,20B,Clark,36.0875,-115.0507,Clark,NV,90503,29,NG
+2322,21A,Clark,36.0875,-115.0507,Clark,NV,75323,29,NG
+2322,21B,Clark,36.0875,-115.0507,Clark,NV,74373,28,NG
+2322,22A,Clark,36.0875,-115.0507,Clark,NV,75328,30,NG
+2322,22B,Clark,36.0875,-115.0507,Clark,NV,74262,29,NG
+2322,3,Clark,36.0875,-115.0507,Clark,NV,761966,75,NG
+2326,1,Sunrise,36.1384,-115.036,Clark,NV,1109334,89,NG
+2330,1,Fort Churchill,39.1281,-119.1319,Lyon,NV,5609241,117,NG
+2330,2,Fort Churchill,39.1281,-119.1319,Lyon,NV,4765574,117,NG
+2336,2,Tracy,39.5625,-119.525,Storey,NV,1633392,82,NG
+2336,3,Tracy,39.5625,-119.525,Storey,NV,4608844,112,NG
+2336,4,Tracy,39.5625,-119.525,Storey,NV,652707,80,NG
+2336,5,Tracy,39.5625,-119.525,Storey,NV,647891,78,NG
+2336,6,Tracy,39.5625,-119.525,Storey,NV,6258380,109,NG
+2336,8,Tracy,39.5625,-119.525,Storey,NV,14452905,306,NG
+2336,9,Tracy,39.5625,-119.525,Storey,NV,14458088,306,NG
+2444,6,Rio Grande,31.8047,-106.5472,Dona Ana,NM,2061284,50,NG
+2444,7,Rio Grande,31.8047,-106.5472,Dona Ana,NM,2174697,51,NG
+2444,8,Rio Grande,31.8047,-106.5472,Dona Ana,NM,7867465,161,NG
+2444,9,Rio Grande,31.8047,-106.5472,Dona Ana,NM,742267,96,NG
+2446,051B,Maddox,32.7131,-103.31,Lea,NM,7556888,129,NG
+2450,1,Reeves Generating Station,35.1716,-106.6019,Bernalillo,NM,561366,52,NG
+2450,2,Reeves Generating Station,35.1716,-106.6019,Bernalillo,NM,515887,100,NG
+2450,3,Reeves Generating Station,35.1716,-106.6019,Bernalillo,NM,1043289,75,NG
+2454,121B,Cunningham,32.7131,-103.3533,Lea,NM,3772793,133,NG
+2454,122B,Cunningham,32.7131,-103.3533,Lea,NM,13322891,208,NG
+2454,123T,Cunningham,32.7131,-103.3533,Lea,NM,1518318,117,NG
+2454,124T,Cunningham,32.7131,-103.3533,Lea,NM,1492834,112,NG
+3456,**4,Newman,31.9858,-106.4322,El Paso,TX,5294308,128,NG
+3456,**5,Newman,31.9858,-106.4322,El Paso,TX,5442539,125,NG
+3456,1,Newman,31.9858,-106.4322,El Paso,TX,4132068,84,NG
+3456,2,Newman,31.9858,-106.4322,El Paso,TX,5074179,82,NG
+3456,3,Newman,31.9858,-106.4322,El Paso,TX,6653808,105,NG
+3456,GT-6A,Newman,31.9858,-106.4322,El Paso,TX,3026214,214,NG
+3456,GT-6B,Newman,31.9858,-106.4322,El Paso,TX,2530757,140,NG
+3648,1,Gadsby,40.7686,-111.9289,Salt Lake,UT,669878,70,NG
+3648,2,Gadsby,40.7686,-111.9289,Salt Lake,UT,1067681,77,NG
+3648,3,Gadsby,40.7686,-111.9289,Salt Lake,UT,2333442,113,NG
+3648,4,Gadsby,40.7686,-111.9289,Salt Lake,UT,1119079,46,NG
+3648,5,Gadsby,40.7686,-111.9289,Salt Lake,UT,1054469,46,NG
+3648,6,Gadsby,40.7686,-111.9289,Salt Lake,UT,1059386,46,NG
+3845,30,Centralia,46.7559,-122.8578,Lewis,WA,570975,56,NG
+3845,40,Centralia,46.7559,-122.8578,Lewis,WA,583694,56,NG
+3845,50,Centralia,46.7559,-122.8578,Lewis,WA,592531,54,NG
+3845,60,Centralia,46.7559,-122.8578,Lewis,WA,589403,55,NG
+6013,1,Olive,34.1775,-118.3147,Los Angeles,CA,251596,45,NG
+6013,2,Olive,34.1775,-118.3147,Los Angeles,CA,169326,56,NG
+6112,2,Fort St. Vrain,40.2461,-104.8742,Weld,CO,21517880,407,NG
+6112,3,Fort St. Vrain,40.2461,-104.8742,Weld,CO,20075005,431,NG
+6112,4,Fort St. Vrain,40.2461,-104.8742,Weld,CO,20685539,371,NG
+6112,5,Fort St. Vrain,40.2461,-104.8742,Weld,CO,611776,164,NG
+6112,6,Fort St. Vrain,40.2461,-104.8742,Weld,CO,541808,166,NG
+6761,A,Rawhide Energy Station,40.8611,-105.0206,Larimer,CO,112644,78,NG
+6761,B,Rawhide Energy Station,40.8611,-105.0206,Larimer,CO,144202,83,NG
+6761,C,Rawhide Energy Station,40.8611,-105.0206,Larimer,CO,114760,81,NG
+6761,D,Rawhide Energy Station,40.8611,-105.0206,Larimer,CO,88657,77,NG
+6761,F,Rawhide Energy Station,40.8611,-105.0206,Larimer,CO,338725,149,NG
+7082,**3,Harry Allen,36.425,-114.9,Clark,NV,412179,82,NG
+7082,**4,Harry Allen,36.425,-114.9,Clark,NV,216156,88,NG
+7082,**5,Harry Allen,36.425,-114.9,Clark,NV,10649494,272,NG
+7082,**6,Harry Allen,36.425,-114.9,Clark,NV,10515181,273,NG
+7266,1,Woodland Generation Station,37.6528,-121.0172,Stanislaus,CA,1467792,50,NG
+7266,2,Woodland Generation Station,37.6528,-121.0172,Stanislaus,CA,4418281,86,NG
+7307,5,Redding Power Plant,40.5083,-122.4253,Shasta,CA,1474943,120,NG
+7307,6,Redding Power Plant,40.5083,-122.4253,Shasta,CA,666514,62,NG
+7315,1,Almond Power Plant,37.5739,-120.9854,Stanislaus,CA,1452250,51,NG
+7315,2,Almond Power Plant,37.5739,-120.9854,Stanislaus,CA,228727,54,NG
+7315,3,Almond Power Plant,37.5739,-120.9854,Stanislaus,CA,308372,55,NG
+7315,4,Almond Power Plant,37.5739,-120.9854,Stanislaus,CA,134667,56,NG
+7350,CTG1,Coyote Springs,45.8486,-119.6744,Morrow,OR,16590107,275,NG
+7350,CTG2,Coyote Springs,45.8486,-119.6744,Morrow,OR,20464816,309,NG
+7449,NA1,NCPA Combustion Turbine Project #2,38.088,-121.3871,San Joaquin,CA,732731,53,NG
+7456,1,Rathdrum Combustion Turbine Project,47.8034,-116.869,Kootenai,ID,668742,96,NG
+7456,2,Rathdrum Combustion Turbine Project,47.8034,-116.869,Kootenai,ID,620741,91,NG
+7504,CT1,Neil Simpson II,44.2853,-105.3841,Campbell,WY,739050,40,NG
+7527,1,Carson Cogeneration,38.4461,-121.4614,Sacramento,CA,6065679,361,NG
+7527,2,Carson Cogeneration,38.4461,-121.4614,Sacramento,CA,529919,42,NG
+7551,1A,SCA Cogen II,38.5306,-121.399,Sacramento,CA,5816998,65,NG
+7551,1B,SCA Cogen II,38.5306,-121.399,Sacramento,CA,5857284,69,NG
+7551,1C,SCA Cogen II,38.5306,-121.399,Sacramento,CA,716720,50,NG
+7552,1,Sacramento Power Authority Cogen,38.511,-121.4735,Sacramento,CA,14447836,204,NG
+7605,1,River Road,45.65,-122.7231,Clark,WA,25043749,273,NG
+7693,1,Anaheim Combustion Turbine,33.8539,-117.8561,Orange,CA,1132196,52,NG
+7870,CT1,Encogen Generating Station,48.746,-122.486,Whatcom,WA,565684,46,NG
+7870,CT2,Encogen Generating Station,48.746,-122.486,Whatcom,WA,578228,46,NG
+7870,CT3,Encogen Generating Station,48.746,-122.486,Whatcom,WA,583657,45,NG
+7945,1,Finley Combustion Turbine,46.1572,-119.0094,Benton,WA,27913,31,NG
+7953,CT1,Evander Andrews Power Complex,43.1794,-115.7328,Elmore,ID,1289268,204,NG
+7953,CT2,Evander Andrews Power Complex,43.1794,-115.7328,Elmore,ID,148514,54,NG
+7953,CT3,Evander Andrews Power Complex,43.1794,-115.7328,Elmore,ID,148599,53,NG
+7967,1,Lordsburg Generating Station,32.3494,-108.6975,Hidalgo,NM,353907,43,NG
+7967,2,Lordsburg Generating Station,32.3494,-108.6975,Hidalgo,NM,380859,44,NG
+7975,1,Pyramid Generating Station,32.2363,-108.5494,Hidalgo,NM,239092,43,NG
+7975,2,Pyramid Generating Station,32.2363,-108.5494,Hidalgo,NM,192658,43,NG
+7975,3,Pyramid Generating Station,32.2363,-108.5494,Hidalgo,NM,168838,43,NG
+7975,4,Pyramid Generating Station,32.2363,-108.5494,Hidalgo,NM,257317,43,NG
+7987,1,Lake,34.1775,-118.3147,Los Angeles,CA,377000,49,NG
+7999,1,Grays Harbor Energy Center,46.9688,-123.48,Grays Harbor,WA,6998466,337,NG
+7999,2,Grays Harbor Energy Center,46.9688,-123.48,Grays Harbor,WA,6995254,378,NG
+8068,5A,Santan,33.3333,-111.751,Maricopa,AZ,12224488,325,NG
+8068,5B,Santan,33.3333,-111.751,Maricopa,AZ,12172824,371,NG
+8068,6A,Santan,33.3333,-111.751,Maricopa,AZ,11823232,315,NG
+8219,2,Ray D Nixon,38.6306,-104.7056,El Paso,CO,121831,36,NG
+8219,3,Ray D Nixon,38.6306,-104.7056,El Paso,CO,81751,36,NG
+10034,S-100,"Calpine Gilroy Cogen, LP",37.0001,-121.5367,Santa Clara,CA,2687120,303,NG
+10156,GEN1,"Fresno Cogeneration Partners, LP",36.6183,-120.1,Fresno,CA,405814,49,NG
+10169,D1,Carson Cogeneration Company,33.8759,-118.2491,Los Angeles,CA,4058613,56,NG
+10294,2,"Gilroy Energy Center, LLC for King City",36.225,-121.1278,Monterey,CA,203531,49,NG
+10349,2,Yuba City Energy Center,39.1365,-121.6397,Sutter,CA,466738,63,NG
+10350,1,Greenleaf One,39.0536,-121.6942,Sutter,CA,202888,58,NG
+10405,1,Kingsburg Cogen Facility,36.547,-119.578,Fresno,CA,170690,25,NG
+10682,GT2,Brush Power Projects,40.2415,-103.631,Morgan,CO,128804,55,NG
+10682,GT4,Brush Power Projects,40.2415,-103.631,Morgan,CO,292092,78,NG
+10682,GT5,Brush Power Projects,40.2415,-103.631,Morgan,CO,284936,77,NG
+10761,1,"Las Vegas Cogeneration II, LLC",36.2317,-115.1235,Clark,NV,379090,44,NG
+10761,2,"Las Vegas Cogeneration II, LLC",36.2317,-115.1235,Clark,NV,1689126,48,NG
+10761,3,"Las Vegas Cogeneration II, LLC",36.2317,-115.1235,Clark,NV,1693552,48,NG
+10761,4,"Las Vegas Cogeneration II, LLC",36.2317,-115.1235,Clark,NV,1656551,48,NG
+10761,5,Las Vegas Cogeneration,36.2317,-115.1235,Clark,NV,1629073,48,NG
+10812,CT1,North Island,32.705,-117.189,San Diego,CA,0,0,NG
+50131,1,Coalinga Cogeneration Company,36.1807,-120.3885,Fresno,CA,2973064,43,NG
+50707,S001,J M Shafer,40.0979,-104.7745,Weld,CO,949802,37,NG
+50707,S002,J M Shafer,40.0979,-104.7745,Weld,CO,723984,37,NG
+50707,S003,J M Shafer,40.0979,-104.7745,Weld,CO,766619,37,NG
+50707,S004,J M Shafer,40.0979,-104.7745,Weld,CO,797535,37,NG
+50707,S005,J M Shafer,40.0979,-104.7745,Weld,CO,815479,37,NG
+50864,1,Sargent Canyon Cogen Company,35.9359,-120.8405,Monterey,CA,2797757,42,NG
+50865,1,Salinas River Cogeneration Company,35.9515,-120.8679,Monterey,CA,2825839,53,NG
+54476,CT-1,Sumas Generating Station,48.9905,-122.2733,Whatcom,WA,2414103,100,NG
+54537,CT-1A,Ferndale Generating Station,48.8283,-122.6853,Whatcom,WA,1241295,100,NG
+54537,CT-1B,Ferndale Generating Station,48.8283,-122.6853,Whatcom,WA,1195165,95,NG
+54694,4101,Yuma Cogeneration Associates,32.7286,-114.6542,Yuma,AZ,12228,56,NG
+54749,1,Goal Line,33.1185,-117.0995,San Diego,CA,23582,52,NG
+54761,1,Hermiston,45.8042,-119.37,Umatilla,OR,17880256,250,NG
+54761,2,Hermiston,45.8042,-119.37,Umatilla,OR,17843285,249,NG
+54814,1,Milagro Cogeneration and Gas Plant,36.7367,-107.9417,San Juan,NM,4903798,71,NG
+54814,2,Milagro Cogeneration and Gas Plant,36.7367,-107.9417,San Juan,NM,5290607,111,NG
+54854,3,Sun Peak Generating Station,36.1392,-115.034,Clark,NV,21088,74,NG
+54854,4,Sun Peak Generating Station,36.1392,-115.034,Clark,NV,17003,74,NG
+54854,5,Sun Peak Generating Station,36.1392,-115.034,Clark,NV,12749,74,NG
+55039,GT-1,Rio Bravo Generating Station,35.026,-106.644,Bernalillo,NM,854633,159,NG
+55077,EDE1,Desert Star Energy Center,35.7867,-114.9928,Clark,NV,19378890,263,NG
+55077,EDE2,Desert Star Energy Center,35.7867,-114.9928,Clark,NV,19034563,257,NG
+55103,CT1,Klamath Cogeneration Project,42.174,-121.8112,Klamath,OR,18406091,366,NG
+55103,CT2,Klamath Cogeneration Project,42.174,-121.8112,Klamath,OR,18079792,364,NG
+55112,CT01,Calpine Sutter Energy Center,39.0531,-121.6939,Sutter,CA,15696498,545,NG
+55112,CT02,Calpine Sutter Energy Center,39.0531,-121.6939,Sutter,CA,15468919,552,NG
+55124,P1,Griffith Energy LLC,35.0517,-114.1334,Mohave,AZ,12169369,413,NG
+55124,P2,Griffith Energy LLC,35.0517,-114.1334,Mohave,AZ,12749210,348,NG
+55127,CT1,Manchief Generating Station,40.2201,-103.679,Morgan,CO,2651755,169,NG
+55127,CT2,Manchief Generating Station,40.2201,-103.679,Morgan,CO,2704476,161,NG
+55129,DBG1,Desert Basin Generating Station,32.9042,-111.7889,Pinal,AZ,13088139,315,NG
+55129,DBG2,Desert Basin Generating Station,32.9042,-111.7889,Pinal,AZ,11342461,345,NG
+55151,CTG-1,La Paloma Generating Plant,35.2956,-119.5919,Kern,CA,19407204,273,NG
+55151,CTG-2,La Paloma Generating Plant,35.2956,-119.5919,Kern,CA,19615468,300,NG
+55151,CTG-3,La Paloma Generating Plant,35.2956,-119.5919,Kern,CA,19704377,300,NG
+55151,CTG-4,La Paloma Generating Plant,35.2956,-119.5919,Kern,CA,17606386,300,NG
+55177,A,"South Point Energy Center, LLC",34.8678,-114.5317,Mohave,AZ,14851808,299,NG
+55177,B,"South Point Energy Center, LLC",34.8678,-114.5317,Mohave,AZ,13389842,291,NG
+55179,CTGEN1,"Rathdrum Power, LLC",47.7861,-116.9214,Kootenai,ID,18859519,293,NG
+55182,CTG1,Sunrise Power Company,35.2097,-119.585,Kern,CA,20840175,305,NG
+55182,CTG2,Sunrise Power Company,35.2097,-119.585,Kern,CA,20080895,315,NG
+55200,CT5,Arapahoe Combustion Turbine Facility,39.6692,-105.0018,Denver,CO,1515036,74,NG
+55200,CT6,Arapahoe Combustion Turbine Facility,39.6692,-105.0018,Denver,CO,1555989,71,NG
+55207,CT7,Valmont Combustion Turbine Facility,40.0197,-105.202,Boulder,CO,130683,47,NG
+55207,CT8,Valmont Combustion Turbine Facility,40.0197,-105.202,Boulder,CO,87381,46,NG
+55210,1,Afton Generating Station,32.1134,-106.848,Dona Ana,NM,5679786,249,NG
+55217,X724,"Los Medanos Energy Center, LLC",38.03,-121.8708,Contra Costa,CA,26428465,314,NG
+55217,X725,"Los Medanos Energy Center, LLC",38.03,-121.8708,Contra Costa,CA,26458396,314,NG
+55282,CTG1,Arlington Valley Energy Facility,33.3417,-112.8897,Maricopa,AZ,9852333,300,NG
+55282,CTG2,Arlington Valley Energy Facility,33.3417,-112.8897,Maricopa,AZ,10162879,303,NG
+55283,1,Front Range Power Plant,38.6281,-104.7069,El Paso,CO,13800327,269,NG
+55283,2,Front Range Power Plant,38.6281,-104.7069,El Paso,CO,14586856,275,NG
+55295,1,Blythe Energy,33.6157,-114.6865,Riverside,CA,6231569,196,NG
+55295,2,Blythe Energy,33.6157,-114.6865,Riverside,CA,6420434,194,NG
+55306,1CTGA,Gila River Power Station,32.9761,-112.694,Maricopa,AZ,8636438,313,NG
+55306,1CTGB,Gila River Power Station,32.9761,-112.694,Maricopa,AZ,8476152,317,NG
+55306,2CTGA,Gila River Power Station,32.9761,-112.694,Maricopa,AZ,8260255,308,NG
+55306,2CTGB,Gila River Power Station,32.9761,-112.694,Maricopa,AZ,8120891,311,NG
+55306,3CTGA,Gila River Power Station,32.9761,-112.694,Maricopa,AZ,12291743,309,NG
+55306,3CTGB,Gila River Power Station,32.9761,-112.694,Maricopa,AZ,11917689,325,NG
+55306,4CTGA,Gila River Power Station,32.9761,-112.694,Maricopa,AZ,14073049,320,NG
+55306,4CTGB,Gila River Power Station,32.9761,-112.694,Maricopa,AZ,13775650,323,NG
+55322,CTG-1,Chuck Lenzie Generating Station,36.3853,-114.9228,Clark,NV,19146848,334,NG
+55322,CTG-2,Chuck Lenzie Generating Station,36.3853,-114.9228,Clark,NV,18817725,297,NG
+55322,CTG-3,Chuck Lenzie Generating Station,36.3853,-114.9228,Clark,NV,18934895,306,NG
+55322,CTG-4,Chuck Lenzie Generating Station,36.3853,-114.9228,Clark,NV,18764867,304,NG
+55328,CTG-1,Hermiston Power Plant,45.7931,-119.3117,Umatilla,OR,22672232,369,NG
+55328,CTG-2,Hermiston Power Plant,45.7931,-119.3117,Umatilla,OR,22584820,357,NG
+55333,1,"Delta Energy Center, LLC",38.0167,-121.8439,Contra Costa,CA,24884632,320,NG
+55333,2,"Delta Energy Center, LLC",38.0167,-121.8439,Contra Costa,CA,22942237,321,NG
+55333,3,"Delta Energy Center, LLC",38.0167,-121.8439,Contra Costa,CA,22323483,318,NG
+55343,CTG1,Luna Energy Facility,32.2983,-107.78,Luna,NM,12338236,295,NG
+55343,CTG2,Luna Energy Facility,32.2983,-107.78,Luna,NM,11758944,299,NG
+55345,CTG-1,"Otay Mesa Energy Center, LLC",32.5733,-116.9153,San Diego,CA,12058131,313,NG
+55345,CTG-2,"Otay Mesa Energy Center, LLC",32.5733,-116.9153,San Diego,CA,12158129,313,NG
+55372,CTG1,"New Harquahala Generating Company, LLC",33.4759,-113.1133,Maricopa,AZ,5653917,258,NG
+55372,CTG2,"New Harquahala Generating Company, LLC",33.4759,-113.1133,Maricopa,AZ,5546411,260,NG
+55372,CTG3,"New Harquahala Generating Company, LLC",33.4759,-113.1133,Maricopa,AZ,4320637,254,NG
+55393,1,Metcalf Energy Center,37.2169,-121.7439,Santa Clara,CA,17071219,310,NG
+55393,2,Metcalf Energy Center,37.2169,-121.7439,Santa Clara,CA,16154007,308,NG
+55400,CTG-1,Elk Hills Power,35.2802,-119.4699,Kern,CA,24816974,288,NG
+55400,CTG-2,Elk Hills Power,35.2802,-119.4699,Kern,CA,24764327,288,NG
+55453,1,Fountain Valley Power Plant,38.5569,-104.6875,El Paso,CO,1028583,44,NG
+55453,2,Fountain Valley Power Plant,38.5569,-104.6875,El Paso,CO,898045,46,NG
+55453,3,Fountain Valley Power Plant,38.5569,-104.6875,El Paso,CO,1036680,45,NG
+55453,4,Fountain Valley Power Plant,38.5569,-104.6875,El Paso,CO,796974,45,NG
+55453,5,Fountain Valley Power Plant,38.5569,-104.6875,El Paso,CO,911374,45,NG
+55453,6,Fountain Valley Power Plant,38.5569,-104.6875,El Paso,CO,758895,46,NG
+55455,CC1A,Redhawk Generating Facility,33.33,-112.84,Maricopa,AZ,13982440,287,NG
+55455,CC1B,Redhawk Generating Facility,33.33,-112.84,Maricopa,AZ,13677805,287,NG
+55455,CC2A,Redhawk Generating Facility,33.33,-112.84,Maricopa,AZ,13194721,282,NG
+55455,CC2B,Redhawk Generating Facility,33.33,-112.84,Maricopa,AZ,13012400,280,NG
+55477,CT2,Neil Simpson II (CT2),44.2853,-105.3841,Campbell,WY,479442,40,NG
+55481,1,Mesquite Generating Station,33.3451,-112.8638,Maricopa,AZ,21090181,340,NG
+55481,2,Mesquite Generating Station,33.3451,-112.8638,Maricopa,AZ,20966348,344,NG
+55481,5,Mesquite Generating Station,33.3451,-112.8638,Maricopa,AZ,22577143,330,NG
+55481,6,Mesquite Generating Station,33.3451,-112.8638,Maricopa,AZ,22893635,339,NG
+55482,CT-1,Goldendale Generating Station,45.8114,-120.833,Klickitat,WA,13210497,320,NG
+55494,CT1,Tri-Center Naniwa Energy,39.5617,-119.5175,Storey,NV,33639,52,NG
+55494,CT2,Tri-Center Naniwa Energy,39.5617,-119.5175,Storey,NV,39795,51,NG
+55494,CT3,Tri-Center Naniwa Energy,39.5617,-119.5175,Storey,NV,37326,65,NG
+55494,CT4,Tri-Center Naniwa Energy,39.5617,-119.5175,Storey,NV,23764,51,NG
+55494,CT5,Tri-Center Naniwa Energy,39.5617,-119.5175,Storey,NV,38949,52,NG
+55494,CT6,Tri-Center Naniwa Energy,39.5617,-119.5175,Storey,NV,42985,52,NG
+55499,GT-1,CalPeak Power - Vaca Dixon LLC,38.3989,-121.9239,Solano,CA,195600,55,NG
+55504,L1,Limon Generating Station,39.2038,-103.7005,Lincoln,CO,305718,82,NG
+55504,L2,Limon Generating Station,39.2038,-103.7005,Lincoln,CO,375456,83,NG
+55505,BR1,Frank Knutson Station,39.9414,-104.6817,Adams,CO,397271,80,NG
+55505,BR2,Frank Knutson Station,39.9414,-104.6817,Adams,CO,377003,79,NG
+55508,GT-1,CalPeak Power - Panoche LLC,36.6531,-120.5797,Fresno,CA,229916,60,NG
+55510,GT-1,CalPeak Power - Border LLC,32.5622,-116.9433,San Diego,CA,292545,53,NG
+55512,GT-1,CalPeak Power - El Cajon LLC,32.7971,-116.972,San Diego,CA,320508,53,NG
+55513,GT-1,CalPeak Power - Enterprise LLC,33.1221,-117.117,San Diego,CA,305790,51,NG
+55514,CTG01,Apex Generating Station,36.4178,-114.9622,Clark,NV,12266579,300,NG
+55514,CTG02,Apex Generating Station,36.4178,-114.9622,Clark,NV,12438291,275,NG
+55518,CTG1,High Desert Power Project,34.5953,-117.3647,San Bernardino,CA,11418059,174,NG
+55518,CTG2,High Desert Power Project,34.5953,-117.3647,San Bernardino,CA,11419001,178,NG
+55518,CTG3,High Desert Power Project,34.5953,-117.3647,San Bernardino,CA,11684924,178,NG
+55522,CT01,Sundance Power Plant,32.9285,-111.5899,Pinal,AZ,258178,50,NG
+55522,CT02,Sundance Power Plant,32.9285,-111.5899,Pinal,AZ,230298,50,NG
+55522,CT03,Sundance Power Plant,32.9285,-111.5899,Pinal,AZ,248286,50,NG
+55522,CT04,Sundance Power Plant,32.9285,-111.5899,Pinal,AZ,240097,50,NG
+55522,CT05,Sundance Power Plant,32.9285,-111.5899,Pinal,AZ,243319,50,NG
+55522,CT06,Sundance Power Plant,32.9285,-111.5899,Pinal,AZ,221319,50,NG
+55522,CT07,Sundance Power Plant,32.9285,-111.5899,Pinal,AZ,248213,50,NG
+55522,CT08,Sundance Power Plant,32.9285,-111.5899,Pinal,AZ,237602,50,NG
+55522,CT09,Sundance Power Plant,32.9285,-111.5899,Pinal,AZ,235342,50,NG
+55522,CT10,Sundance Power Plant,32.9285,-111.5899,Pinal,AZ,218709,50,NG
+55538,CT1A,"Escondido Energy Center, LLC",33.1261,-117.1172,San Diego,CA,14479,20,NG
+55538,CT1B,"Escondido Energy Center, LLC",33.1261,-117.1172,San Diego,CA,14477,20,NG
+55538,CTG1,"Escondido Energy Center, LLC",33.1261,-117.1172,San Diego,CA,146064,50,NG
+55540,1A,Chula Vista Energy Center,32.5914,-117.0586,San Diego,CA,24958,30,NG
+55540,1B,Chula Vista Energy Center,32.5914,-117.0586,San Diego,CA,24572,28,NG
+55541,1,Indigo Generation Facility,33.9114,-116.5533,Riverside,CA,426237,50,NG
+55541,2,Indigo Generation Facility,33.9114,-116.5533,Riverside,CA,432248,50,NG
+55541,3,Indigo Generation Facility,33.9114,-116.5533,Riverside,CA,425492,50,NG
+55542,1,Larkspur Energy Faciity,32.5672,-116.9444,San Diego,CA,460309,50,NG
+55542,2,Larkspur Energy Faciity,32.5672,-116.9444,San Diego,CA,484870,50,NG
+55544,GT1,Klamath Energy LLC,42.1727,-121.8144,Klamath,OR,142698,48,NG
+55544,GT2,Klamath Energy LLC,42.1727,-121.8144,Klamath,OR,128110,30,NG
+55544,GT3,Klamath Energy LLC,42.1727,-121.8144,Klamath,OR,142433,31,NG
+55544,GT4,Klamath Energy LLC,42.1727,-121.8144,Klamath,OR,130487,47,NG
+55622,U1,West Valley Generation Project,40.6663,-112.031,Salt Lake,UT,1059936,60,NG
+55622,U2,West Valley Generation Project,40.6663,-112.031,Salt Lake,UT,1020525,60,NG
+55622,U3,West Valley Generation Project,40.6663,-112.031,Salt Lake,UT,1075969,60,NG
+55622,U4,West Valley Generation Project,40.6663,-112.031,Salt Lake,UT,1032091,45,NG
+55622,U5,West Valley Generation Project,40.6663,-112.031,Salt Lake,UT,999934,51,NG
+55625,UNIT1,Creed Energy Center,38.2419,-121.8551,Solano,CA,184333,50,NG
+55626,UNIT1,Lambie Energy Center,38.2216,-121.8683,Solano,CA,201791,50,NG
+55627,UNIT1,Goose Haven Energy Center,38.2271,-121.844,Solano,CA,181808,50,NG
+55645,CT-01,Blue Spruce Energy Center,39.7436,-104.68,Adams,CO,2554133,161,NG
+55645,CT-02,Blue Spruce Energy Center,39.7436,-104.68,Adams,CO,2093624,162,NG
+55656,CT001,Pastoria Energy Facility,34.9556,-118.844,Kern,CA,18862820,281,NG
+55656,CT002,Pastoria Energy Facility,34.9556,-118.844,Kern,CA,18397966,278,NG
+55656,CT004,Pastoria Energy Facility,34.9556,-118.844,Kern,CA,17309584,264,NG
+55662,CT1,Chehalis Generation Facility,46.6226,-122.9145,Lewis,WA,10150728,315,NG
+55662,CT2,Chehalis Generation Facility,46.6226,-122.9145,Lewis,WA,9857117,276,NG
+55683,1,Boardman Power Holdings LLC,45.8464,-119.6536,Morrow,OR,677,25,NG
+55687,BHG1,Walter M. Higgins III Generating Station,35.6139,-115.3561,Clark,NV,14464496,310,NG
+55687,BHG2,Walter M. Higgins III Generating Station,35.6139,-115.3561,Clark,NV,14715760,309,NG
+55698,HEP1,Hanford Energy Park Peaker,36.2689,-119.6469,Kings,CA,444347,51,NG
+55698,HEP2,Hanford Energy Park Peaker,36.2689,-119.6469,Kings,CA,455056,51,NG
+55700,CTG1,Mint Farm Generating Station,46.1403,-122.9842,Cowlitz,WA,11247332,313,NG
+55733,CT01,Bennett Mountain Power Project,43.147,-115.6671,Elmore,ID,1045216,201,NG
+55748,CTG1,Los Esteros Critical Energy Facility,37.425,-121.9319,Santa Clara,CA,609277,81,NG
+55748,CTG2,Los Esteros Critical Energy Facility,37.425,-121.9319,Santa Clara,CA,620289,80,NG
+55748,CTG3,Los Esteros Critical Energy Facility,37.425,-121.9319,Santa Clara,CA,637585,83,NG
+55748,CTG4,Los Esteros Critical Energy Facility,37.425,-121.9319,Santa Clara,CA,613739,80,NG
+55802,CTG1,Valencia Power Plant,34.6063,-106.732,Valencia,NM,637171,168,NG
+55807,HPP1,Henrietta Peaker Plant,36.2397,-119.9044,Kings,CA,329794,52,NG
+55807,HPP2,Henrietta Peaker Plant,36.2397,-119.9044,Kings,CA,336348,52,NG
+55810,S-3,"Gilroy Energy Center, LLC",36.999,-121.5363,Santa Clara,CA,335190,50,NG
+55810,S-4,"Gilroy Energy Center, LLC",36.999,-121.5363,Santa Clara,CA,315887,50,NG
+55810,S-5,"Gilroy Energy Center, LLC",36.999,-121.5363,Santa Clara,CA,309667,50,NG
+55818,F1CT,Frederickson Power LP,47.0864,-122.3644,Pierce,WA,11070138,283,NG
+55835,1,Rocky Mountain Energy Center,40.0911,-104.5947,Weld,CO,18337136,403,NG
+55835,2,Rocky Mountain Energy Center,40.0911,-104.5947,Weld,CO,17826031,400,NG
+55841,A01,Silverhawk,36.4078,-114.9603,Clark,NV,12778124,293,NG
+55841,A03,Silverhawk,36.4078,-114.9603,Clark,NV,12761833,289,NG
+55847,UNIT1,Feather River Energy Center,39.1088,-121.6133,Sutter,CA,360994,60,NG
+55853,1,Inland Empire Energy Center,33.7393,-117.1701,Riverside,CA,11308939,401,NG
+55853,2,Inland Empire Energy Center,33.7393,-117.1701,Riverside,CA,6665208,385,NG
+55855,UNIT1,Wolfskill Energy Center,38.2282,-122.076,Solano,CA,297525,50,NG
+55858,UNT1,Desert Power Plant,40.9131,-112.7342,Tooele,UT,89726,37,NG
+55858,UNT2,Desert Power Plant,40.9131,-112.7342,Tooele,UT,89433,36,NG
+55875,GT1,"Wellhead Power Gates, LLC",36.1522,-120.1481,Fresno,CA,2916,51,NG
+55933,TPP1,Tracy Combined Cycle Power Plant,37.7107,-121.4906,San Joaquin,CA,1546678,241,NG
+55933,TPP2,Tracy Combined Cycle Power Plant,37.7107,-121.4906,San Joaquin,CA,1484639,176,NG
+55951,AMP-1,Agua Mansa Power,34.0414,-117.3603,San Bernardino,CA,459489,49,NG
+55963,1,Riverview Energy Center,38.0145,-121.7901,Contra Costa,CA,308217,50,NG
+55970,2,Cosumnes Power Plant,38.3383,-121.1239,Sacramento,CA,8741379,274,NG
+55970,3,Cosumnes Power Plant,38.3383,-121.1239,Sacramento,CA,8687993,272,NG
+55977,CTG-1,Bluffview Power Plant,36.7164,-108.2153,San Juan,NM,4666462,60,NG
+55985,CTG1,Palomar Energy Center,33.1192,-117.118,San Diego,CA,16933518,298,NG
+55985,CTG2,Palomar Energy Center,33.1192,-117.118,San Diego,CA,17100187,291,NG
+56026,PCT1,Donald Von Raesfeld,37.3767,-121.9508,Santa Clara,CA,3796318,77,NG
+56026,PCT2,Donald Von Raesfeld,37.3767,-121.9508,Santa Clara,CA,3890701,76,NG
+56041,M1,Malburg Generating Station,33.9983,-118.2219,Los Angeles,CA,4510365,84,NG
+56041,M2,Malburg Generating Station,33.9983,-118.2219,Los Angeles,CA,4586069,86,NG
+56046,1,Magnolia (SCPPA),34.1788,-118.3153,Los Angeles,CA,17263100,316,NG
+56078,1,Walnut Energy Center,37.4878,-120.8956,Stanislaus,CA,8067895,145,NG
+56078,2,Walnut Energy Center,37.4878,-120.8956,Stanislaus,CA,7944469,142,NG
+56102,CTG1A,Currant Creek Power Project,39.8223,-111.894,Juab,UT,14164428,420,NG
+56102,CTG1B,Currant Creek Power Project,39.8223,-111.894,Juab,UT,13634621,295,NG
+56135,1,Ripon Generation Station,37.7315,-121.116,Stanislaus,CA,241407,56,NG
+56135,2,Ripon Generation Station,37.7315,-121.116,Stanislaus,CA,209978,51,NG
+56143,1,Riverside Energy Resource Center,33.9636,-117.4528,Riverside,CA,247519,51,NG
+56143,2,Riverside Energy Resource Center,33.9636,-117.4528,Riverside,CA,213075,52,NG
+56143,3,Riverside Energy Resource Center,33.9636,-117.4528,Riverside,CA,95207,52,NG
+56143,4,Riverside Energy Resource Center,33.9636,-117.4528,Riverside,CA,90309,52,NG
+56177,U1,Nebo Power Station,40.0614,-111.7294,Utah,UT,5766409,153,NG
+56227,PWEU1,Port Westward,46.1792,-123.1717,Columbia,OR,23115066,445,NG
+56232,1,Miramar Energy Facility,32.8769,-117.1664,San Diego,CA,595315,50,NG
+56232,2,Miramar Energy Facility,32.8769,-117.1664,San Diego,CA,591086,50,NG
+56237,CT01,Lake Side Power Plant,40.3311,-111.7547,Utah,UT,12691588,338,NG
+56237,CT02,Lake Side Power Plant,40.3311,-111.7547,Utah,UT,12506343,340,NG
+56237,CT03,Lake Side Power Plant,40.3311,-111.7547,Utah,UT,4175374,331,NG
+56237,CT04,Lake Side Power Plant,40.3311,-111.7547,Utah,UT,4183046,328,NG
+56239,GT-1,Kings River Conservation District Malaga,36.6894,-119.7399,Fresno,CA,739948,129,NG
+56239,GT-2,Kings River Conservation District Malaga,36.6894,-119.7399,Fresno,CA,708388,52,NG
+56253,MC-1,Millcreek Power,37.1124,-113.5155,Washington,UT,521334,394,NG
+56253,MC-2,Millcreek Power,37.1124,-113.5155,Washington,UT,353942,44,NG
+56298,CT001,Roseville Energy Park,38.7926,-121.3823,Placer,CA,2544498,89,NG
+56298,CT002,Roseville Energy Park,38.7926,-121.3823,Placer,CA,2544529,86,NG
+56445,CT-01,Spindle Hill Energy Center,40.0914,-104.8819,Weld,CO,2051931,169,NG
+56445,CT-02,Spindle Hill Energy Center,40.0914,-104.8819,Weld,CO,2050961,165,NG
+56458,HOBB1,Hobbs Generating Station,32.7282,-103.3095,Lea,NM,14459030,312,NG
+56458,HOBB2,Hobbs Generating Station,32.7282,-103.3095,Lea,NM,13441675,343,NG
+56467,CT1,Russell City Energy Company LLC,37.6341,-122.1326,Alameda,CA,3838213,321,NG
+56467,CT2,Russell City Energy Company LLC,37.6341,-122.1326,Alameda,CA,3895603,320,NG
+56471,CT1,McGrath Generating Station,34.2054,-119.2478,Ventura,CA,184779,51,NG
+56472,CT1,Grapeland Generating Station,34.09,-117.534,San Bernardino,CA,192083,51,NG
+56473,CT1,Mira Loma Peaker,34.0054,-117.5604,San Bernardino,CA,202489,51,NG
+56474,CT1,Barre Peaker,33.8073,-117.9833,Orange,CA,239486,51,NG
+56475,CT1,Center Peaker,33.9297,-118.1047,Los Angeles,CA,212786,51,NG
+56476,GT1,Gateway Generating Station,38.0167,-121.7592,Contra Costa,CA,12710610,310,NG
+56476,GT2,Gateway Generating Station,38.0167,-121.7592,Contra Costa,CA,12602720,306,NG
+56482,1,Black Mountain Generating Station,35.0361,-114.1594,Mohave,AZ,405061,49,NG
+56482,2,Black Mountain Generating Station,35.0361,-114.1594,Mohave,AZ,264146,49,NG
+56532,CT1,Colusa Generating Station,39.3648,-122.268,Colusa,CA,8703833,349,NG
+56532,CT2,Colusa Generating Station,39.3648,-122.268,Colusa,CA,8553250,348,NG
+56569,1,Niland Gas Turbine Plant,33.2432,-115.498,Imperial,CA,326204,50,NG
+56569,2,Niland Gas Turbine Plant,33.2432,-115.498,Imperial,CA,255728,50,NG
+56606,CT01,Culbertson Station,48.2104,-104.3919,Roosevelt,MT,598369,102,NG
+56639,1,"Starwood Power Midway, LLC",36.654,-120.5797,Fresno,CA,239865,61,NG
+56639,2,"Midway Peaking, LLC",36.654,-120.5797,Fresno,CA,233338,62,NG
+56803,1,Panoche Energy Center,36.6513,-120.5833,Fresno,CA,977006,123,NG
+56803,2,Panoche Energy Center,36.6513,-120.5833,Fresno,CA,1025843,110,NG
+56803,3,Panoche Energy Center,36.6513,-120.5833,Fresno,CA,1066002,146,NG
+56803,4,Panoche Energy Center,36.6513,-120.5833,Fresno,CA,980229,107,NG
+56908,1A,Mill Creek Generating Station,46.1066,-112.8755,Deer Lodge,MT,482786,26,NG
+56908,1B,Mill Creek Generating Station,46.1066,-112.8755,Deer Lodge,MT,426764,26,NG
+56908,2A,Mill Creek Generating Station,46.1066,-112.8755,Deer Lodge,MT,292643,26,NG
+56908,2B,Mill Creek Generating Station,46.1066,-112.8755,Deer Lodge,MT,349864,26,NG
+56908,3A,Mill Creek Generating Station,46.1066,-112.8755,Deer Lodge,MT,427248,26,NG
+56908,3B,Mill Creek Generating Station,46.1066,-112.8755,Deer Lodge,MT,492307,26,NG
+56914,CTG1,Orange Grove Project,33.359,-117.111,San Diego,CA,223348,51,NG
+56914,CTG2,Orange Grove Project,33.359,-117.111,San Diego,CA,227990,51,NG
+56948,CT01,Coolidge Generating Station,32.9175,-111.5041,Pinal,AZ,95434,49,NG
+56948,CT02,Coolidge Generating Station,32.9175,-111.5041,Pinal,AZ,92389,49,NG
+56948,CT03,Coolidge Generating Station,32.9175,-111.5041,Pinal,AZ,97945,49,NG
+56948,CT04,Coolidge Generating Station,32.9175,-111.5041,Pinal,AZ,106605,50,NG
+56948,CT05,Coolidge Generating Station,32.9175,-111.5041,Pinal,AZ,127593,50,NG
+56948,CT06,Coolidge Generating Station,32.9175,-111.5041,Pinal,AZ,136823,50,NG
+56948,CT07,Coolidge Generating Station,32.9175,-111.5041,Pinal,AZ,150839,49,NG
+56948,CT08,Coolidge Generating Station,32.9175,-111.5041,Pinal,AZ,148220,49,NG
+56948,CT09,Coolidge Generating Station,32.9175,-111.5041,Pinal,AZ,171355,49,NG
+56948,CT10,Coolidge Generating Station,32.9175,-111.5041,Pinal,AZ,195746,50,NG
+56948,CT11,Coolidge Generating Station,32.9175,-111.5041,Pinal,AZ,178793,49,NG
+56948,CT12,Coolidge Generating Station,32.9175,-111.5041,Pinal,AZ,205384,48,NG
+56998,CT01,Pueblo Airport Generating Station,38.322,-104.533,Pueblo,CO,415323,96,NG
+56998,CT02,Pueblo Airport Generating Station,38.322,-104.533,Pueblo,CO,475074,97,NG
+56998,CT04,Pueblo Airport Generating Station,38.322,-104.533,Pueblo,CO,1231976,42,NG
+56998,CT05,Pueblo Airport Generating Station,38.322,-104.533,Pueblo,CO,1164889,42,NG
+56998,CT06,Pueblo Airport Generating Station,38.322,-104.533,Pueblo,CO,1124222,41,NG
+56998,CT07,Pueblo Airport Generating Station,38.322,-104.533,Pueblo,CO,1038333,42,NG
+56998,CT08,Pueblo Airport Generating Station,38.322,-104.533,Pueblo,CO,15008,42,NG
+57001,1,El Cajon Energy Center,32.7971,-116.972,San Diego,CA,189262,50,NG
+57027,1,Canyon Power Plant,33.8581,-117.8616,Orange,CA,183195,51,NG
+57027,2,Canyon Power Plant,33.8581,-117.8616,Orange,CA,177144,51,NG
+57027,3,Canyon Power Plant,33.8581,-117.8616,Orange,CA,178031,51,NG
+57027,4,Canyon Power Plant,33.8581,-117.8616,Orange,CA,189214,51,NG
+57028,CT1,Langley Gulch Power Plant,43.9046,-116.8181,Payette,ID,6720648,331,NG
+57073,BLR1,Ivanpah 2,35.5561,-115.4686,San Bernardino,CA,0,0,NG
+57074,BLR1,Ivanpah 1,35.5356,-115.4515,San Bernardino,CA,0,0,NG
+57075,BLR1,Ivanpah 3,35.5808,-115.4825,San Bernardino,CA,0,0,NG
+57267,1,Marsh Landing Generating Station,38.0171,-121.7651,Contra Costa,CA,127314,208,NG
+57267,2,Marsh Landing Generating Station,38.0171,-121.7651,Contra Costa,CA,104316,206,NG
+57267,3,Marsh Landing Generating Station,38.0171,-121.7651,Contra Costa,CA,97806,210,NG
+57267,4,Marsh Landing Generating Station,38.0171,-121.7651,Contra Costa,CA,108137,210,NG
+57480,HGS1,Highwood Generating Station,47.55,-111.03,Cascade,MT,1959,46,NG
+57482,1,CPV Sentinel,33.9366,-116.5722,Riverside,CA,341419,111,NG
+57482,2,CPV Sentinel,33.9366,-116.5722,Riverside,CA,369311,108,NG
+57482,3,CPV Sentinel,33.9366,-116.5722,Riverside,CA,352758,107,NG
+57482,4,CPV Sentinel,33.9366,-116.5722,Riverside,CA,319613,107,NG
+57482,5,CPV Sentinel,33.9366,-116.5722,Riverside,CA,277048,110,NG
+57482,6,CPV Sentinel,33.9366,-116.5722,Riverside,CA,272526,108,NG
+57482,7,CPV Sentinel,33.9366,-116.5722,Riverside,CA,273920,109,NG
+57482,8,CPV Sentinel,33.9366,-116.5722,Riverside,CA,258314,100,NG
+57483,GT-1,Mariposa Energy Project,37.7965,-121.6049,Alameda,CA,129255,52,NG
+57483,GT-2,Mariposa Energy Project,37.7965,-121.6049,Alameda,CA,128196,51,NG
+57483,GT-3,Mariposa Energy Project,37.7965,-121.6049,Alameda,CA,129729,52,NG
+57483,GT-4,Mariposa Energy Project,37.7965,-121.6049,Alameda,CA,125869,51,NG
+57515,GT1,Walnut Creek Energy Park,34.0078,-117.9425,Los Angeles,CA,502742,107,NG
+57515,GT2,Walnut Creek Energy Park,34.0078,-117.9425,Los Angeles,CA,455055,107,NG
+57515,GT3,Walnut Creek Energy Park,34.0078,-117.9425,Los Angeles,CA,440720,107,NG
+57515,GT4,Walnut Creek Energy Park,34.0078,-117.9425,Los Angeles,CA,384948,107,NG
+57515,GT5,Walnut Creek Energy Park,34.0078,-117.9425,Los Angeles,CA,379317,107,NG
+57555,CTG1,Pio Pico Energy Center LLC,32.5739,-116.9178,San Diego,CA,49733,113,NG
+57555,CTG2,Pio Pico Energy Center LLC,32.5739,-116.9178,San Diego,CA,51459,115,NG
+57555,CTG3,Pio Pico Energy Center LLC,32.5739,-116.9178,San Diego,CA,53746,114,NG
+57703,CT01,Cheyenne Prairie Generating Station,41.1229,-104.7214,Laramie,WY,107998,40,NG
+57703,CT02,Cheyenne Prairie Generating Station,41.1229,-104.7214,Laramie,WY,121320,40,NG
+57703,CT03,Cheyenne Prairie Generating Station,41.1229,-104.7214,Laramie,WY,10066,40,NG
+57978,CT1,Lodi Energy Center,38.088,-121.3867,San Joaquin,CA,3401782,210,NG
+58122,GEN1,"Delano Energy Center, LLC",35.7909,-119.2945,Tulare,CA,104964,51,NG
+58284,1,La Luz Energy Center,34.6178,-106.817,Valencia,NM,32039,42,NG
+58503,CTEU1,Carty Generating Station,45.699,-119.8131,Morrow,OR,1755459,492,NG
