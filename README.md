@@ -2,7 +2,7 @@
 WIDAP's data analysis scripts and notebooks
 
 This repo includes WIDAP's research code (June 2017 - Present).
-The notebooks and scripts address the following (inexhaustive):
+The notebooks and scripts address the following:
 
 0. __Common:__ Functions common to all other scripts.
 1. __Trends:__ High-level generation and emissions trends in the Western Interconnection over the last 17 years.
